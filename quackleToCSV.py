@@ -11,14 +11,14 @@ import csv
 import os
 import parseQuackle
 
-for directory in ['Traditional', 'Lewis', 'One', 'Fifty']:
+for directory in ['traditional', 'lewis', 'one', 'fifty']:
     print("Creating CSV from the games in folder /" + directory + "...")
 
     testResults = []
     for filename in os.listdir(directory):
         if (filename.endswith('.gcg')):
-            with open(os.path.join(directory, filename)) as file:
-                testResults.append(parseQuackle.parseFile(file))
+            file = os.path.join(directory, filename)
+            testResults.append(parseQuackle.parseFile(file))                
 
     with open(directory + '.csv', 'w') as csvfile:
         csvWriter = csv.writer(csvfile, delimiter=',')

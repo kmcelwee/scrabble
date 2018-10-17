@@ -30,19 +30,20 @@ def _playerBingo(sGame, player1, player2):
 
 def parseFile(file):
     '''Input gcg file. Return filename, score1, score2, bingo1, bingo2'''
-    player1 = file.readline().split(' ')[1]
-    player2 = file.readline().split(' ')[1]
-    s = file.readlines()
+    with open(file) as f:
+        player1 = f.readline().split(' ')[1]
+        player2 = f.readline().split(' ')[1]
+        s = f.readlines()
 
-    if not isFinishedGame(s):
-        raise AttributeError(
-            file.name + " is unfinished! Use deleteBadFiles.py to "
-            "remove unwanted files from your dataset."
-        )
+        if not isFinishedGame(s):
+            raise AttributeError(
+                f.name + " is unfinished! Use deleteBadFiles.py to "
+                "remove unwanted files from your dataset."
+            )
 
-    score1, score2 = _playerScore(s, player1, player2)
-    bingo1, bingo2 = _playerBingo(s, player1, player2)
-    return [file.name, score1, score2, bingo1, bingo2]
+        score1, score2 = _playerScore(s, player1, player2)
+        bingo1, bingo2 = _playerBingo(s, player1, player2)
+        return [f.name, score1, score2, bingo1, bingo2]
 
 def isFinishedGame(sGame):
     return not any([line.startswith('#rack') for line in sGame])
@@ -52,8 +53,7 @@ def main():
     directory = 'testGames/'
     testResults = []
     for filename in filenames:
-        with open(directory + filename) as file:
-            testResults.append(parseFile(file))
+        testResults.append(parseFile(directory + filename))
 
     with open(directory + 'testAnswers.txt') as file:
         print('COLUMNS:\t' + file.readline(), end='')

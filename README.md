@@ -10,6 +10,8 @@ Libraries: pyautogui, scipy, numpy, pandas
 
 After downloading, you should be able to just run `python results.py`, and the calculations should be spat out. If, however, you would like to add games to the directories, please run deleteBadFiles.py, then quackleToCSV.py, then results.py.
 
+New Quackle's alphabets can be created under its package contents, in a folder called 'data'.
+
 ## Docstrings ##
 #### parseQuackle.py ####
 parseFile: Input gcg file. Returns filename, score1, score2, bingo1, bingo2

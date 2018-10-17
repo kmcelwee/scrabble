@@ -2,6 +2,8 @@
 
 This project parses data from Quackle, an automated Scrabble player. The results calculate the percent difference for the program playing against itself for various tile values, detailed below. It also identifies bingos, and prints stats concerning how bingo might affect the percent difference.
 
+[Click here for the results](results.csv)
+
 ## Getting Started
 Python 3
 Libraries: pyautogui, scipy, numpy, pandas

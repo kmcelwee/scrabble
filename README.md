@@ -90,7 +90,7 @@ Games within the one/ and fifty/ directories were calculated with all tiles equa
 #### PENDING ####
 
 RANDOM
-Currently testing whether a random assortment of tile values (With the same average as the traditional values)
+Currently testing the effects of a random assortment of tile values (With the same average as the traditional values)
 
 A: 5	B: 1	C: 0	D: 2	E: 3	F: 6	G: 2	H: 5	I: 0	J: 4	K: 4	L: 5	M: 3	
 

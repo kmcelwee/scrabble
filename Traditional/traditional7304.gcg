@@ -1,29 +1,32 @@
-#player1 Quackle Quackle
-#player2 New_Player_1 New Player 1
->Quackle: AAEIORU -AAIOU +0 0
->New_Player_1: DEILQRU 8D QUIRED +52 52
->Quackle: ?AEIORS C7 ISObARE +83 83
->New_Player_1: DFFJLRU 11B J.RFUL +32 84
->Quackle: ABEESUY B7 BEY +35 118
->New_Player_1: ADFHIRR B13 FIR +17 101
->Quackle: AEENOSU 7F AENEOUS +70 188
->New_Player_1: ADHIIPR 8L HAIR +42 143
->Quackle: BEGINOO 15A B.OO +21 209
->New_Player_1: DIIMNPT L4 MID..IP +30 173
->Quackle: AEGIINT 3L AI +20 229
->New_Player_1: CKNPTTX 9K P.X +37 210
->Quackle: DEGILNT 12F TINGLED +74 303
->New_Player_1: CEKLNTT 15A ....KLET +42 252
->Quackle: ACILTYZ 10J ZI. +38 341
->New_Player_1: CHNNTVW 5K W.NCH +26 278
->Quackle: ACLMTUY O1 MUTC. +45 386
->New_Player_1: EEGNTTV 13E VET +14 292
->Quackle: ?AAELSY 14H AmYLASE +86 472
->New_Player_1: EGNOORT 15L GONE +30 322
->Quackle: AAADNOO 13I AA +13 485
->New_Player_1: ENORSTT K9 ..N. +12 334
->Quackle: ADNOOVW I3 AVOW.. +14 499
->New_Player_1: EGORSTT O11 TORS. +16 350
->Quackle: DENO H5 DO..E +14 513
->New_Player_1: EGT H1 GET +14 364
->New_Player_1:  (N) +2 366
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: BDLOQTZ 8G BOLD +14 14
+>Quackle: ADKNUUV J6 KU.U +19 19
+>New_Player_1: EGOQTWZ 6G GOW. +12 26
+>Quackle: ABDENRV 7F VAN +17 36
+>New_Player_1: EIQRTYZ 9C RITZY +36 62
+>Quackle: BCDEENR 8B NEB +17 53
+>New_Player_1: EEIMQRR C7 M..RIER +24 86
+>Quackle: CDEJNRR 12A JE.R +38 91
+>New_Player_1: AAAEQRW 10E AA +19 105
+>Quackle: ?CCDFNR A11 F.oRD +45 136
+>New_Player_1: AEHIQRW K9 HAW +23 128
+>Quackle: ?CCLNNS E9 ..NS +20 156
+>New_Player_1: EEIQRST K4 QIS +37 165
+>Quackle: ?CCLNOX L10 LOX +27 183
+>New_Player_1: AEEERST 11K ..E +6 171
+>Quackle: ?CCDNOP M8 COP. +14 197
+>New_Player_1: AEERSTY 8M .AY +24 195
+>Quackle: ?ACDLMN N6 CL.M +18 215
+>New_Player_1: EENRSTU 15A .ENTURES +80 275
+>Quackle: ?AADENO 14H ADENOmA +70 285
+>New_Player_1: AGILSTT L3 GIT +32 307
+>Quackle: EGHIOTT B2 TIGHTE. +30 315
+>New_Player_1: AAELOST 4B .OA +8 315
+>Quackle: EEEIIOU 2A E.UI +4 319
+>New_Player_1: AELNSTV 1D LEVANTS +86 401
+>Quackle: EEFIIOP 15J FOP +25 344
+>New_Player_1: DIO C2 .D. +14 415
+>Quackle: EEII 3L .IE +8 352
+>New_Player_1: IO 2I OI +10 425
+>New_Player_1:  (EI) +4 429

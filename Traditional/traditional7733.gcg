@@ -1,27 +1,29 @@
-#player1 Quackle Quackle
-#player2 New_Player_1 New Player 1
->Quackle: ?ABIORS 8D BArRIOS +72 72
->New_Player_1: ADDEIOU 7H ADIEU +17 17
->Quackle: AFOOPRR 8L POOF +43 115
->New_Player_1: DLOPTTU 6J POT +29 46
->Quackle: ABIIIRR N8 .RIBI +9 124
->New_Player_1: ADLQTUY M12 QUAY +43 89
->Quackle: AEIIRRU 9A URAEI +12 136
->New_Player_1: DLTTTUZ A8 L.TZ +39 128
->Quackle: EFHIRTV 15H VERIF. +57 193
->New_Player_1: DMNTTUY C9 .DYTUM +24 152
->Quackle: EEHLOOT D11 OOH +26 219
->New_Player_1: IJNNNRT 10J JINN. +28 180
->Quackle: AEEEGLT 11C ..GEE +18 237
->New_Player_1: AAGINRT 14B A. +8 188
->Quackle: AACEELT A13 ACE +22 259
->New_Player_1: AGINRTW F10 W. +13 201
->Quackle: ?AEELNT F1 LEvANTE. +60 319
->New_Player_1: AGINRST 1B STAR.ING +80 281
->Quackle: CDEITVX I10 DEVIC. +27 346
->New_Player_1: EEHLNOR C1 .HEREON +22 303
->Quackle: DELMSTX O12 SEXT +49 395
->New_Player_1: AGKLNOW 13F LAK.NG +12 315
->Quackle: DLMS 6B M.D +12 407
->New_Player_1: OW B1 .OW +27 342
->New_Player_1:  (LS) +4 346
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: ADELOTV 8D VOLTA +24 24
+>Quackle: CFHIILM F6 FI.CH +29 29
+>New_Player_1: ADERSTT 9H TETRADS +63 87
+>Quackle: IILMMOZ 8L MOIL +39 68
+>New_Player_1: ADEIINY 7L AY +25 112
+>Quackle: GIMOUUZ E2 GIZMO +39 107
+>New_Player_1: ADEEIIN 4B DIA.INE +36 148
+>Quackle: EEGGRUU C3 G.GUE +16 123
+>New_Player_1: AEFNOSW K5 FEW +27 175
+>Quackle: EEJORUU L3 JOE +25 148
+>New_Player_1: AANNORS M1 ANON +28 203
+>Quackle: DEKRRUU 1L R.KU +27 175
+>New_Player_1: AIORRSU B7 OURARIS +61 264
+>Quackle: DEERTTU N1 .UE +28 203
+>New_Player_1: AAIIPTW J6 WAI. +38 302
+>Quackle: DELORTT A12 TOLD +23 226
+>New_Player_1: ACINOPT H1 COP. +24 326
+>Quackle: AEELPRT C12 PE +19 245
+>New_Player_1: ABDHINT A8 NAH +31 357
+>Quackle: AELRRST H1 ....R +9 254
+>New_Player_1: BDEEITV L7 ...TIVE +24 381
+>Quackle: AELRSST 13G TEARL.SS +70 324
+>New_Player_1: BBDEENQ 11K Q. +22 403
+>Quackle: ??EINXY H11 oX.YE +66 390
+>New_Player_1: BBDEEN C9 BEE..D +30 433
+>Quackle: ?IN O3 sIN +13 403
+>Quackle:  (BN) +8 411

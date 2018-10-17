@@ -1,28 +1,29 @@
-#player1 Quackle Quackle
-#player2 New_Player_1 New Player 1
->Quackle: EGIKRSU 8G KUE +14 14
->New_Player_1: DEEIOQS J6 QIS +40 40
->Quackle: GINRSYZ K5 ZIN +37 51
->New_Player_1: AADEEFO L2 ODEA +21 61
->Quackle: EFGHRSY M2 FEHS +48 99
->New_Player_1: AAEFHMO N2 FE +32 93
->Quackle: ABEGRTY I7 B.Y +23 122
->New_Player_1: AAHLMOR 9E LOAM. +22 115
->Quackle: ?AEGNRT O2 sTRANGE +88 210
->New_Player_1: AAEHIRR 10D AAH +29 144
->Quackle: IILNNRW N8 WIN +13 223
->New_Player_1: EEIOPRR 11C REPO +30 174
->Quackle: ILNORUV 11K VINO +21 244
->New_Player_1: AEIIRTY K10 I.Y +9 183
->Quackle: ADLNRUV 9L VA.R +16 260
->New_Player_1: AEEIRTX M11 .IXE +22 205
->Quackle: DEGLNTU 15J GULDEN +40 300
->New_Player_1: ACDEORT O1 E........ +27 232
->Quackle: ABMRTTU G11 TUB +15 315
->New_Player_1: ACDIORT 8A DARIC +35 267
->Quackle: ACEMORT A8 .EMOCRAT +98 413
->New_Player_1: ELOPSTT C2 PLOTTE.S +74 341
->Quackle: ?EGIOSU 15A .OUGhIES +80 493
->New_Player_1: DIJLNOW 4B J.WL +28 369
->Quackle: ART 2A RA.T +12 505
->Quackle:  (DINO) +10 515
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: AAELOSX 8F AXAL +22 22
+>Quackle: DDHNOUV 9D VODUN +25 25
+>New_Player_1: EFINOQS F7 Q..I +16 38
+>Quackle: ADEHLOY 10H YAH +23 48
+>New_Player_1: EFNORST 11J OF +15 53
+>Quackle: DELOOPT 12G LOOPED +33 81
+>New_Player_1: EGNNRST 13I NET +22 75
+>Quackle: DGKMNTZ -DGKMT +0 81
+>New_Player_1: EGNRRST 14J REG +25 100
+>Quackle: LNOPRVZ -LNOPV +0 81
+>New_Player_1: AEENRST 7I EASTERN +62 162
+>Quackle: ??CERTZ 6J Za +62 143
+>New_Player_1: AIIKSTU O4 KAI.IT +45 207
+>Quackle: ?CDEMRT M2 ECToD.RM +80 223
+>New_Player_1: ILOSSUW 15H WUSS +40 247
+>Quackle: AILNORW 2J WAL.R +32 255
+>New_Player_1: EILMOOU D8 O.ULE +18 265
+>Quackle: EEINOOU -EIOOU +0 255
+>New_Player_1: EFIJMOR 8A MOJ. +39 304
+>Quackle: AEGINNR N9 AGINNER +79 334
+>New_Player_1: BDEFINR C12 FIB +21 325
+>Quackle: CEEGIIY 14C .EIGY +15 349
+>New_Player_1: ABDEHNR 1G REHAB +39 364
+>Quackle: ACEISTT 2A STATICE +82 431
+>New_Player_1: DENOOUV 4H DEVOU. +24 388
+>Quackle: IIP D2 .IPI +12 443
+>Quackle:  (NO) +4 447

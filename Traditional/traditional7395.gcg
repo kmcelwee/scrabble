@@ -1,29 +1,28 @@
-#player1 New_Player_1 New Player 1
-#player2 Quackle Quackle
->New_Player_1: ?AEINOW 8G WOE +12 12
->Quackle: CFIJMOS 9F COIF +31 31
->New_Player_1: ?AAILNO F9 .IAO +8 20
->Quackle: DGJKMSV 11D KV.S +22 53
->New_Player_1: ?ALNNOT D7 pLAN.TON +74 94
->Quackle: ADGJMNU C13 JUG +42 95
->New_Player_1: BNOPRUZ 15A PU. +18 112
->Quackle: ABDEMNP 14B M..DANE +32 127
->New_Player_1: BINOQRZ 15H ROBIN +30 142
->Quackle: ABDEPSV 14K PAVED +28 155
->New_Player_1: AAGHQRZ C9 ZA +44 186
->Quackle: ABIRRST B10 BRA +22 177
->New_Player_1: AEGHQRT 15N HE +29 215
->Quackle: ?IINRST J2 NITRIlS +67 244
->New_Player_1: AGIQRTT I3 QI +44 259
->Quackle: EFHLMOO H4 FOH +23 267
->New_Player_1: ADGRSTT 10I TAG +12 271
->Quackle: ELLLMOO 11J MOOL +22 289
->New_Player_1: DGRSTTT -DGTT +0 271
->Quackle: CEELLUW 2J .EWEL +16 305
->New_Player_1: AIIRSTY 12I AIRY +33 304
->Quackle: CDEILTU E1 DUCTILE +71 376
->New_Player_1: EIRSTXY 1E .EXY +45 349
->Quackle: ADEEENT E13 E. +13 389
->New_Player_1: GIRRSTU 2D G.RU +20 369
->Quackle: ADEENST O2 STANDEE +86 475
->Quackle:  (EIRST) +10 485
+#player1 Quackle Quackle
+#player2 New_Player_1 New Player 1
+>Quackle: DEEGNOR 8D GEODE +18 18
+>New_Player_1: AELOQUX 9G OX +23 23
+>Quackle: EEFMNNR E5 FRE.MEN +48 66
+>New_Player_1: ABDELQU D1 QUALE +53 76
+>Quackle: DEKNORV 2B DR.NK +40 106
+>New_Player_1: BDEEORT 1A BO +15 91
+>Quackle: AEILOVV 7G AVO +26 132
+>New_Player_1: ADEEIRT E1 I. +13 104
+>Quackle: CEILSSV J2 CLEVIS +26 158
+>New_Player_1: ADEEFRT 3G DEF.ATER +86 190
+>Quackle: ?AACDSZ O1 ZAS +49 207
+>New_Player_1: EIIPSTY I9 YIP +29 219
+>Quackle: ?ACDMPT N2 T.AMP +34 241
+>New_Player_1: EISTTTU 10H T.TI +20 239
+>Quackle: ??CDNUW L1 CU.DoWNs +80 321
+>New_Player_1: EEGOSTU H1 OG.E +18 257
+>Quackle: AEILNRS O6 ALINERS +78 399
+>New_Player_1: AEISTUY N10 YEA +31 288
+>Quackle: GLOOTUW D10 WOG +21 420
+>New_Player_1: AIIRSTU C10 AI +11 299
+>Quackle: ILNNOTU 13J UNION +17 437
+>New_Player_1: IIJRSTU 11I .I +6 305
+>Quackle: ABEHLRT 14D HALBERT +70 507
+>New_Player_1: HIJRSTU M11 SH.JI +24 329
+>Quackle: O D14 .O +6 513
+>Quackle:  (RTU) +6 519

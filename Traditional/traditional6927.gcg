@@ -1,27 +1,29 @@
-#player1 Quackle Quackle
-#player2 New_Player_1 New Player 1
->Quackle: AEEILNT 8C LINEATE +66 66
->New_Player_1: IOOTUYZ 7I YOU +19 19
->Quackle: DHIMQTU 6J HM +32 98
->New_Player_1: GIJOOTZ E4 OOZI.G +32 51
->Quackle: DIPQRTU D1 QUID +54 152
->New_Player_1: ?AEJLTU 2A JUg.LATE +82 133
->Quackle: AEEOPRT 1H OPERATE +86 238
->New_Player_1: CDORRSW O1 SCOW +69 202
->Quackle: FHKNOPS 9G HOP +37 275
->New_Player_1: ?ADORRU N4 ARDOURs +66 268
->Quackle: AEFKNNS C7 F.ANKEN +38 313
->New_Player_1: AEGIMNY O8 MEINY +57 325
->Quackle: BCEEINS M8 BE +16 329
->New_Player_1: AADEEGV A1 A.EE +36 361
->Quackle: CDEIINS D11 ID +18 347
->New_Player_1: ADGINSV 12L DAV. +22 383
->Quackle: ACEINSS 13G INCASES +83 430
->New_Player_1: BGINRST 4L BR.. +18 401
->Quackle: GILTTWX 14J XI +52 482
->New_Player_1: FGINSTV 11A VI..NG +28 429
->Quackle: EGLLTTW B1 G.TTLE +16 498
->New_Player_1: AFIORST F5 FAT. +29 458
->Quackle: LRW J12 W.. +13 511
->New_Player_1: IORS A11 .ISOR +27 485
->New_Player_1:  (LR) +4 489
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: CHOSWYZ 8F WYCH +30 30
+>Quackle: EEINNOQ 9E NEE +15 15
+>New_Player_1: AIOOSXZ 7E ZOA +26 56
+>Quackle: AEILNOQ E5 LE. +24 39
+>New_Player_1: EILOSTX 9I OX +16 72
+>Quackle: AAIINOQ 10H INIA +23 62
+>New_Player_1: DEILSTU 11D DILUTES +85 157
+>Quackle: AENOQSV 12A VANE +28 90
+>New_Player_1: AACGITV A12 .IVA +30 187
+>Quackle: EEIOQSY 13C EYE +23 113
+>New_Player_1: ?ACGRST 14E TRAGiCS +69 256
+>Quackle: FIIOQSU 15H OF +28 141
+>New_Player_1: DJKMOST 6B JOK. +31 287
+>Quackle: EIIPQSU 13K EQUIP +34 175
+>New_Player_1: DMOPRST O9 PROM.TS +48 335
+>Quackle: DEFIRRS 13G FER +30 205
+>New_Player_1: DELORRU 7B OR +15 350
+>Quackle: ADIRSTW 8A STAW +46 251
+>New_Player_1: ?DELORU 5E .OUDLiER +66 416
+>Quackle: BDIINRT L4 D.IB +14 265
+>New_Player_1: EHILMNT H1 MEHN.I +39 455
+>Quackle: BGINNRT 2F BR.N +12 277
+>New_Player_1: AEGLOTU 14A .UG +18 473
+>Quackle: AADGINT J2 TID.NG +20 297
+>New_Player_1: AEILOT M6 TELOI +14 487
+>Quackle: AA 1G A.A +9 306
+>Quackle:  (A) +2 308

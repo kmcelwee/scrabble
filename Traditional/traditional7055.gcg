@@ -1,26 +1,31 @@
-#player1 Quackle Quackle
-#player2 New_Player_1 New Player 1
->Quackle: DEIIOOQ 8G QI +22 22
->New_Player_1: ADIIOUV 9D AVOID +25 25
->Quackle: DEEIOOS E8 O.OID +18 40
->New_Player_1: AEGIPUY 12A GUYE. +24 49
->Quackle: DEEILST 13C ED +19 59
->New_Player_1: AAIPRVW A12 .AWP +30 79
->Quackle: EILLSST I2 LISTELS +71 130
->New_Player_1: AAIORRV 2D VARIO.AR +65 144
->Quackle: BFGNOTY 1E TOBY +50 180
->New_Player_1: EJLMNNO 10B JOM.N +40 184
->Quackle: AFGNRRS 6H R.F +14 194
->New_Player_1: EEEILMN 1K ELEMI +26 210
->Quackle: ?AFGNRS O1 .NGRAFtS +86 280
->New_Player_1: AELNSTT K6 TALENTS +71 281
->Quackle: AADEGTU 3G GU.DE +29 309
->New_Player_1: CEEINOR 11H NEO.ERIC +60 341
->Quackle: AAENPTU O11 .APUT +30 339
->New_Player_1: AEHKORW M9 WO.KER +34 375
->Quackle: ABEIINN 14A .IN +18 357
->New_Player_1: ACHHTUX N10 X. +50 425
->Quackle: ABEEINZ 5E ZIBE. +34 391
->New_Player_1: ?ACHHTU 8A nACH. +51 476
->Quackle: AEN N4 ANE +16 407
->Quackle:  (HTU) +12 419
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: ABILLRY 8H BILLY +28 28
+>Quackle: AAIRTTU L8 .AUTIA +18 18
+>New_Player_1: ACEEFRV M12 FAVE +29 57
+>Quackle: AEIRSTW 15H WEARI.ST +158 176
+>New_Player_1: CDEMRRT 10J DR.M +11 68
+>Quackle: ?EEEMNU 11G UNMEE. +23 199
+>New_Player_1: CDEORTZ J14 Z. +31 99
+>Quackle: ?AEFQRT 9G QAT +30 229
+>New_Player_1: CDENORT 7G COD +22 121
+>Quackle: ?EEFORU 14M .OE +18 247
+>New_Player_1: ENRTVXY 12D VEXT +30 151
+>Quackle: ?EEFIRU 13E FIE +25 272
+>New_Player_1: AHNNORY 9K Y.H +31 182
+>Quackle: ?AEIRUW 6I AW +18 290
+>New_Player_1: ANNNORS K3 NONA +14 196
+>Quackle: ?EIINRU L1 INURE +20 310
+>New_Player_1: CNNRRSS 1L .NNS +12 208
+>Quackle: ?AEIKOP O1 .OAPlIKE +98 408
+>New_Player_1: CGHPRRS E10 CH.. +24 232
+>Quackle: BDEEIJL M3 BEEDI +34 442
+>New_Player_1: GGGPRRS -GGGPR +0 232
+>Quackle: AIJLOSU 10C JU.O +15 457
+>New_Player_1: ELORRST 7M .R. +7 239
+>Quackle: ?AGILPS 14B PIGS +27 484
+>New_Player_1: EGLORST 11B GO +12 251
+>Quackle: ?ADGLOT A6 GLOATeD +83 567
+>New_Player_1: EILRRST J1 REST +16 267
+>Quackle: O B11 .O +6 573
+>Quackle:  (ILR) +6 579

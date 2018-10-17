@@ -1,34 +1,31 @@
-#player1 New_Player_1 New Player 1
-#player2 Quackle Quackle
->New_Player_1: EEILMTX 8H TELEX +40 40
->Quackle: AABILMU K5 BUM.LIA +44 44
->New_Player_1: ADIIMPY L6 PY.IDIA +58 98
->Quackle: AAEENOR J10 AREAE +18 62
->New_Player_1: CGJLMRT 13I J.G +19 117
->Quackle: EEGNOOZ M2 GONZO +35 97
->New_Player_1: ACLMRTT I7 T.RM +15 132
->Quackle: EENSSTW L3 WE +19 116
->New_Player_1: ACKLSTV M10 SLACK +36 168
->Quackle: DEGNSST 15K GESTS +33 149
->New_Player_1: CNORTUV 2M .UV +14 182
->Quackle: DEINOTY O1 I.Y +27 176
->New_Player_1: CNOORTU O8 CROUTON. +83 265
->Quackle: DEHNOTV 14H VO. +15 191
->New_Player_1: ADEIINT 14L A.I. +22 287
->Quackle: DEHNOST 6K ...N +8 199
->New_Player_1: DEIINQT -IQ +0 287
->Quackle: DEHORST 4L ..D +4 203
->New_Player_1: DEEINNT 5M .IN +16 303
->Quackle: EEHORST I13 ..E +10 213
->New_Player_1: BDEEENT 7G BE. +10 313
->Quackle: EHORRST H6 R.. +3 216
->New_Player_1: DEENNTU 9E UNDE. +12 325
->Quackle: EFHORST 9D F..... +10 226
->New_Player_1: AEIINRT 5B INERTIA +69 394
->Quackle: EHOORST 4C OHO +26 252
->New_Player_1: ??AFHOW 6B FOH +42 436
->Quackle: ADELRST 5B .......L +8 260
->New_Player_1: ??AEPQW 8A WiPE +33 469
->Quackle: ADEIRST E8 S.ITER +21 281
->New_Player_1: ?AQ K1 QAt +16 485
->New_Player_1:  (AD) +6 491
+#player1 Quackle Quackle
+#player2 New_Player_1 New Player 1
+>Quackle: ?ANOPRT 8D PATRONs +72 72
+>New_Player_1: AEHNTXZ 9C ZAX +42 42
+>Quackle: AIIILTW J5 IWI. +14 86
+>New_Player_1: EHNNTUY 10D YEH +35 77
+>Quackle: AEEILTT H5 ETI.LATE +59 145
+>New_Player_1: KLNNTUW E7 W...N +30 107
+>Quackle: ADEOOQS 6F QA. +32 177
+>New_Player_1: AKLNTUV 5G K.V.L +30 137
+>Quackle: DEOOOPS 4G OP +28 205
+>New_Player_1: ADEHNTU F2 DUH +19 156
+>Quackle: ?DENOOS L5 SwOONED +71 276
+>New_Player_1: ADEENOT K9 ODE +19 175
+>Quackle: AEFOSST J10 OF +20 296
+>New_Player_1: ABEEGNT 2A BANGE. +20 195
+>Quackle: AEEMSST 1A AM +28 324
+>New_Player_1: CEFIIRT M7 FIE +26 221
+>Quackle: AEENSST N9 SENSATE +72 396
+>New_Player_1: CGIIRTU 15K ICI.R +30 251
+>Quackle: AEJLORR 14J JO +27 423
+>New_Player_1: CGGNRTU 13M G.G +10 261
+>Quackle: AELLRRU C1 U.REAL +17 440
+>New_Player_1: CEINRTU 4E C... +11 272
+>Quackle: BLMRRTU N3 BLURT +15 455
+>New_Player_1: AEINRTU 11N .U +2 274
+>Quackle: DEIIMRV 3L MI. +14 469
+>New_Player_1: AEINORT 2I TINEA +13 287
+>Quackle: DEIRSVY 1G DYES +28 497
+>New_Player_1: OR D8 ...OR +22 309
+>New_Player_1:  (IRV) +12 321

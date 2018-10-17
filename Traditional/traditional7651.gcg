@@ -1,25 +1,35 @@
-#player1 Quackle Quackle
-#player2 New_Player_1 New Player 1
->Quackle: CERRTTX 8G TEXT +22 22
->New_Player_1: DFGLORS K4 GOLFS +30 30
->Quackle: CIIJORR 4H COR.I +22 44
->New_Player_1: AADIRRU 7F AURA +21 51
->Quackle: ?EIJRTU H1 JUI.E +42 86
->New_Player_1: DFIILNR 6D RIF +27 78
->Quackle: ?AEPRTV 9C PRiVATE +84 170
->New_Player_1: DILNNOW 10I DOWN +22 100
->Quackle: ACEOQUV D1 QUAVE. +56 226
->New_Player_1: EEGIILN F9 .IE +8 108
->Quackle: CIIOTUZ 6I TO.UIC +29 255
->New_Player_1: AEGILNY D1 ......Y +22 130
->Quackle: ?IMOOSZ 8A ZOO +40 295
->New_Player_1: AEGILNR 1H .ANGLIER +101 231
->Quackle: ?EEIMST 12C TrISEME +79 374
->New_Player_1: AAEMORS 11J MOA +26 257
->Quackle: ADHILNY 13G HANDILY +104 478
->New_Player_1: ABDEERS H12 ..BE +24 281
->Quackle: KNNPSTW E11 W.NK +32 510
->New_Player_1: ABDEERS 15A BEADS +42 323
->Quackle: ADENPST I3 D. +10 520
->New_Player_1: EGHINOR N5 O.HERING +66 389
->New_Player_1:  (AELNPST) +18 407
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: DEILPRT 8F TRIPLED +74 74
+>Quackle: AAADGIY J4 GAYA. +17 17
+>New_Player_1: EGIINNU F6 UN.IEING +63 137
+>Quackle: ADEEIOX E10 AXE +42 59
+>New_Player_1: AAIIIOS L6 OI.IA +6 143
+>Quackle: DEEINOT K4 OE +11 70
+>New_Player_1: ABEEEIS D12 BEE +20 163
+>Quackle: DEINTUV L1 VIED +34 104
+>New_Player_1: AEEEIIS 1K I.IES +24 187
+>Quackle: AGNNRTU 15A GAUNT +28 132
+>New_Player_1: ACEEIST I7 A.E +10 197
+>Quackle: ELNQRUU 10J QU. +32 164
+>New_Player_1: CEIORST N1 .SOTERIC +74 271
+>Quackle: AELNPRU B10 PURAN. +28 192
+>New_Player_1: ?AFKLMW 13A W.K. +22 293
+>Quackle: ?DELLOR M10 DOLL +24 216
+>New_Player_1: ?AFLMRT 3K F.T.R +22 315
+>Quackle: ?BENNOR 12H ENNOB.eR +72 288
+>New_Player_1: ?AAELMR A11 MA. +16 331
+>Quackle: CHHOOSS 14I COHOSH +38 326
+>New_Player_1: ?AEFLRT C5 REFLoAT +72 403
+>Quackle: DJMOSTV 6B J.T +26 352
+>New_Player_1: WYZ L14 .W +9 412
+>Quackle: DMOSV 8A MO.D +27 379
+>New_Player_1: YZ 11M .Y +9 421
+>Quackle: SV I7 ...S +21 400
+>New_Player_1: Z -  +0 421
+>Quackle: V -  +0 400
+>New_Player_1: Z -  +0 421
+>Quackle: V -  +0 400
+>New_Player_1: Z -  +0 421
+>Quackle: V -  +0 400
+>Quackle: V (V) +-4 396

@@ -1,30 +1,27 @@
-#player1 New_Player_1 New Player 1
-#player2 Quackle Quackle
->New_Player_1: EHLMNNW 8D WHELM +34 34
->Quackle: EEEHIOQ 9C HOE +20 20
->New_Player_1: AEINNRT 10C ENTRAIN +76 110
->Quackle: AEEIIQY 7F YEA +19 39
->New_Player_1: GJNORRT H4 JOR.. +22 132
->Quackle: AEIIIQT 6F TE.AI +20 59
->New_Player_1: AGINRST 5G R.ASTING +76 208
->Quackle: ADFIIQW 4L QI +46 105
->New_Player_1: DEEGIKN 11H DEKEING +81 289
->Quackle: ADFILTW 12I WAFT +41 146
->New_Player_1: AEISTUU N9 AU.ITE +18 307
->Quackle: CDILNPU O7 CLIP +30 176
->New_Player_1: ALNSSUX O14 XU +36 343
->Quackle: ADDNUUZ 3M ZA +46 222
->New_Player_1: ALMNRSS H1 MAR..... +57 400
->Quackle: ADDFNUU 3G F.AUD +14 236
->New_Player_1: ?BGLNSS J2 B.S..NG +16 416
->Quackle: DDEINUY F10 .UDDY +18 254
->New_Player_1: ??EILSV O1 VISE +36 452
->Quackle: BEINORT 2F BO. +16 270
->New_Player_1: ??LLOOR C9 ..LLO +16 468
->Quackle: EEINORT G13 OE +12 282
->New_Player_1: ??OOPRS 15G ScROOPs +83 551
->Quackle: CEINRTV 12A VI.E +22 304
->New_Player_1: EO M3 ...E +13 564
->Quackle: CNRT L9 CR.. +6 310
->New_Player_1: O 10L .O.. +8 572
->New_Player_1:  (NT) +4 576
+#player1 Quackle Quackle
+#player2 New_Player_1 New Player 1
+>Quackle: AEFIORS 8G OAF +12 12
+>New_Player_1: BHHIIQU 9G HI +20 20
+>Quackle: EINRSSV J6 VIS +21 33
+>New_Player_1: BDHIOQU 10F HOD +25 45
+>Quackle: EFGNRST 7J .F +5 38
+>New_Player_1: BIIOQUV 11D OBI +15 60
+>Quackle: EGNRSTU 12A GURNETS +84 122
+>New_Player_1: AIIQUVY 13G IVY +17 77
+>Quackle: ?BEILNW A5 ELBoWIN. +89 211
+>New_Player_1: AEIQTUY 14I EQUITY +81 158
+>Quackle: EGKPRRT 15F KEPT +36 247
+>New_Player_1: AAILTUW F5 WAUL +17 175
+>Quackle: DGIOORR 15L DOOR +33 280
+>New_Player_1: ADEEITZ B10 DA.TIE +31 206
+>Quackle: AEGIOOR E2 AGIO +20 300
+>New_Player_1: ?AEEMNZ 15A M.ZE +48 254
+>Quackle: ADEEGOR F1 EGO +18 318
+>New_Player_1: ?AAENPR D1 PREANAl +90 344
+>Quackle: ADEELOR B6 OE +12 330
+>New_Player_1: ACIRSSU L1 CUIRASS +80 424
+>Quackle: ADEJLNR 3I JER.D +42 372
+>New_Player_1: ACEELTT C5 ECLAT +28 452
+>Quackle: ALNNNRX 1L .ALX +39 411
+>New_Player_1: EMT 1A TEM. +24 476
+>New_Player_1:  (NNNR) +8 484

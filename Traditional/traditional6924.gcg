@@ -1,30 +1,26 @@
-#player1 New_Player_1 New Player 1
-#player2 Quackle Quackle
->New_Player_1: AEEEKOO -AEEOO +0 0
->Quackle: AAEINPY 8H PINEY +28 28
->New_Player_1: EGKNOTV K8 .VOKE +24 24
->Quackle: AAACILR H5 CAR.ALIA +63 91
->New_Player_1: EGGLNTW 10J W.G +15 39
->Quackle: EFINNOR 5H .ONFINER +76 167
->New_Player_1: EEGILNT O4 G.EENLIT +83 122
->Quackle: ?CDOOSV 12D aVOC.DO.S +106 273
->New_Player_1: AEEHHLU N10 HUE +29 151
->Quackle: ABJORST 13B JOB +27 300
->New_Player_1: ADEHLRY 6N H. +26 177
->Quackle: ARSSTTU 14D STRATUS +65 365
->New_Player_1: AADELRY 15G YA +26 203
->Quackle: ?EIQUWX 4L QI +46 411
->New_Player_1: ADEELNR 13J ED +20 223
->Quackle: ?DESUWX 6G W.X +22 433
->New_Player_1: AEILNRU B13 .UN +20 243
->Quackle: ?DEEOSU 7A DElOUSE. +65 498
->New_Player_1: AEEIILR A4 LEA.IER +27 270
->Quackle: ABFGINO 9G O.F +20 518
->New_Player_1: AEIILTZ 3M ZA +46 316
->Quackle: AABGINP 6A .BA +22 540
->New_Player_1: EIILOTT 10E TOI. +8 324
->Quackle: ADGINPR 15G ..P +12 552
->New_Player_1: EILMRTT B6 ..TTER +18 342
->Quackle: ADGIMNR 7J ARM +29 581
->New_Player_1: ILM J2 LIM. +8 350
->New_Player_1:  (DGIN) +12 362
+#player1 Quackle Quackle
+#player2 New_Player_1 New Player 1
+>Quackle: AGIIORU 8G GIAOUR +16 16
+>New_Player_1: ABEIMNP 7A PEMBINA +71 71
+>Quackle: DHILUVW 6A UH +30 46
+>New_Player_1: DEEJKVY A5 J..E +39 110
+>Quackle: CDILRVW J6 VR.W +18 64
+>New_Player_1: DEKLOVY L4 VOLE.Y +24 134
+>Quackle: ACDIILT 6F ID +14 78
+>New_Player_1: DEKNOOR 5C NOOK +23 157
+>Quackle: ACDILTT M9 ATTIC +22 100
+>New_Player_1: DEEOOQR 12L Q. +22 179
+>Quackle: DEFLSST H1 DELFTS +46 146
+>New_Player_1: DEEOORS 8C OE +12 191
+>Quackle: AAAADIS N10 AAS +23 169
+>New_Player_1: ADEEORS 9C OE +14 205
+>Quackle: AADINOW O7 ADOWN +36 205
+>New_Player_1: ADEIIRS B9 DIARIES +74 279
+>Quackle: AIINRUX 13G AUXINI. +36 241
+>New_Player_1: BCLNPSZ H11 SC.LP +36 315
+>Quackle: AEGHIRR 1C HAGRI.ER +64 305
+>New_Player_1: BEENNYZ 3C BENZY. +48 363
+>Quackle: ?EFRTTU N2 TaRTUFE +80 385
+>New_Player_1: ?EEGLNT A11 TELaE +29 392
+>Quackle: MO 2B MO +16 401
+>Quackle:  (GN) +6 407

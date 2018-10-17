@@ -1,26 +1,32 @@
-#player1 New_Player_1 New Player 1
-#player2 Quackle Quackle
->New_Player_1: EIIOTUX -IIOU +0 0
->Quackle: ADEILPU 8D PILAU +20 20
->New_Player_1: EEOSTUX F8 .UXE +27 27
->Quackle: ADEIOTY E10 OY +29 49
->New_Player_1: EEOOQST H7 Q.OTE +14 41
->Quackle: ADEINST 12H DETAINS +88 137
->New_Player_1: BEOORSS N7 SORBO.ES +82 123
->Quackle: AAEFNNV D8 .AVANE +41 178
->New_Player_1: BDILNTT 8L BL.T +27 150
->Quackle: EEFIMNY C13 FEY +28 206
->New_Player_1: ADEINTV 14G DEVIANT. +64 214
->Quackle: EHIIMNR 15A RH.ME +48 254
->New_Player_1: CEIKORS J5 ROCKIES. +68 282
->Quackle: EIINTUW M3 INUTI.E +24 278
->New_Player_1: DILNRWZ N1 ZIN +26 308
->Quackle: ACDGOTW 5E DOGCA.T +44 322
->New_Player_1: ADILNRW O1 AD +45 353
->Quackle: EFGHMRW 6C GREW +32 354
->New_Player_1: IILNRRW C1 WIRIN. +20 373
->Quackle: ?FGHJMU 4B J.G +22 376
->New_Player_1: ?AALOPR 1A PA.L +30 403
->Quackle: ?EFHLMU H1 HUMi. +33 409
->New_Player_1: ?AOOR 2A AR.OsO +24 427
->New_Player_1:  (EFL) +12 439
+#player1 Quackle Quackle
+#player2 New_Player_1 New Player 1
+>Quackle: ?AEIOTV 8D VIOlATE +76 76
+>New_Player_1: DFHLLOP K5 FOLD +27 27
+>Quackle: ACEGIUW J6 WE. +29 105
+>New_Player_1: DHLNPRS F7 H.LP +15 42
+>Quackle: ACEGIOU D8 .OGUE +18 123
+>New_Player_1: DEENRRS 13A RENDERS +79 121
+>Quackle: ABCIKMN B10 KIN.MA +44 167
+>New_Player_1: ?AAEPRU A12 U.EA +28 149
+>Quackle: BCHLNOZ H6 BL.ZON +17 184
+>New_Player_1: ?ADINPR 9H .IP +27 176
+>Quackle: ACHITUX 14G HUIC +20 204
+>New_Player_1: ?ADFNRS 12H SNARFeD +91 267
+>Quackle: AANRTTX 13L AX +39 243
+>New_Player_1: AAEEEOY 10J YEA +35 302
+>Quackle: AALNRTT 15E ALANT +29 272
+>New_Player_1: AEEIOTW N10 WI.E +26 328
+>Quackle: CDIIJRT 9C J. +17 289
+>New_Player_1: AEEGOTV O7 GAVOT +34 362
+>Quackle: CDIINRT O13 DIT +24 313
+>New_Player_1: BEEEIQU L4 BEE +21 383
+>Quackle: CEINORT 7E O. +7 320
+>New_Player_1: EIOQSUY M2 QUEYS +54 437
+>Quackle: CEIINRT 2M .I +22 342
+>New_Player_1: GIOORRS L12 ..RO +8 445
+>Quackle: CEIMNRT N1 C.NE +13 355
+>New_Player_1: GIORST E10 IT +14 459
+>Quackle: IMRT 15K R.M +5 360
+>New_Player_1: GORS N10 ....S +22 481
+>Quackle: IT O4 TI +10 370
+>Quackle:  (GOR) +8 378

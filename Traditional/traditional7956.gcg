@@ -1,28 +1,29 @@
-#player1 Quackle Quackle
-#player2 New_Player_1 New Player 1
->Quackle: AAACEOT -AAO +0 0
->New_Player_1: ADELTXZ 8G ZAX +38 38
->Quackle: AACEIRT 9G AI +17 17
->New_Player_1: ADEELNT 10H LATENED +67 105
->Quackle: ACEGIRT L6 ARGE.TIC +76 93
->New_Player_1: AELLNOR I6 LO. +11 116
->Quackle: ?CDEIMT 12H MIsC.TED +67 160
->New_Player_1: AELNRRW 9K R.WAN +26 142
->Quackle: EEHIJUY O7 JU. +30 190
->New_Player_1: EGLNRRS H12 .ERL +18 160
->Quackle: EEHIUVY O12 .IVE +24 214
->New_Player_1: AAEGNRS 13A SANGARE. +70 230
->Quackle: EFHORUY D10 ROU.HY +34 248
->New_Player_1: DNOPSSU A8 POUND. +33 263
->Quackle: EFFQRST -FFQ +0 248
->New_Player_1: ABNPSST 14B BA.T +30 293
->Quackle: EEIRSTV E5 VERITES +96 344
->New_Player_1: FNOPQSS 15A PON. +35 328
->Quackle: EFLMNOW M3 FLOW +25 369
->New_Player_1: BFOOQSS 6D B.FOO.S +22 350
->Quackle: EEHKMNT L1 KNEE +35 404
->New_Player_1: DEGIQSU J12 .UQ +31 381
->Quackle: ?HIMOTY 2E THYMOsI. +73 477
->New_Player_1: ADEGIIS F10 GEA.S +35 416
->Quackle: I 14J .I +11 488
->Quackle:  (DII) +8 496
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: DDNNRTX -DDNNRT +0 0
+>Quackle: AAAFLNR 8F ALFA +14 14
+>New_Player_1: AAPRTUX 9H AX +39 39
+>Quackle: AAHNRRR 7I RAH +18 32
+>New_Player_1: AAPRTUW 6J PAW +29 68
+>Quackle: AINNRRY 5K YARN +37 69
+>New_Player_1: ANRTUUV 4L VAU +34 102
+>Quackle: BCINRSY M3 B..NY +37 106
+>New_Player_1: ENORTTU 10F OUT +11 113
+>Quackle: CGILLRS E10 GRILL +17 123
+>New_Player_1: EINRTTT 15A TITTER +28 141
+>Quackle: ?CEJPSS O1 JESS +44 167
+>New_Player_1: DDEGINR 13A REDD.ING +74 215
+>Quackle: ?CDIOPU A6 CUsPIDO. +89 256
+>New_Player_1: BEEIMOU J9 EMEU +22 237
+>Quackle: CEEFLMN B10 FEM. +37 293
+>New_Player_1: BEEGIOS 11I B.IGE +16 253
+>Quackle: ACELNSW 2N W. +10 303
+>New_Player_1: DEOOSVZ 14H OOZED +38 291
+>Quackle: ACELNQS -Q +0 303
+>New_Player_1: EEIOOSV 15H OE +20 311
+>Quackle: AACELNS C4 ANLACES +67 370
+>New_Player_1: ?EIKOSV 5B I.VOKErS +78 389
+>Quackle: IINNOOR 4G NOIR +11 381
+>New_Player_1: EHIQTT 6E HIT +24 413
+>Quackle: INO 13L ION +9 390
+>Quackle:  (EQT) +24 414

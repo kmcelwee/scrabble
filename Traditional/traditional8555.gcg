@@ -1,26 +1,30 @@
-#player1 New_Player_1 New Player 1
-#player2 Quackle Quackle
->New_Player_1: GILNPTV -PV +0 0
->Quackle: AAAEIIY -AAAIIY +0 0
->New_Player_1: EGILNTT 8F LETTING +70 70
->Quackle: AEEEHMT 7G HAEM +32 32
->New_Player_1: ACILRSW 9D CLAW +28 98
->Quackle: EEHINOT D7 TE.HIE +24 56
->New_Player_1: IIORSST 10D .ITS +26 124
->Quackle: KNOOSTU C11 KNOUT +26 82
->New_Player_1: IOORRSU L6 RI.OROUS +68 192
->Quackle: ACOPSTV 8A COV. +27 109
->New_Player_1: ADEGMOR 13H ORGA.MED +76 268
->Quackle: AEFPSTU H12 P.UF +36 145
->New_Player_1: DEEFNNY 14B F.NNY +38 306
->Quackle: AEEISTU 6J AU.EI +16 161
->New_Player_1: DEEEJSV 15A JE.E +44 350
->Quackle: ?AEGPST B2 GEsTAP.S +74 235
->New_Player_1: BDEOSVX C1 VOX +47 397
->Quackle: ADINORR O7 ANDROI. +30 265
->New_Player_1: BDEQRSZ A1 ZED +54 451
->Quackle: AAINRWY 5B .RAINWAY +78 343
->New_Player_1: ?BBDQRS H1 BuRQ. +75 526
->Quackle: AEIILLO A8 .EILI +10 353
->New_Player_1: BDES 2G B.SED +9 535
->New_Player_1:  (ALO) +6 541
+#player1 Quackle Quackle
+#player2 New_Player_1 New Player 1
+>Quackle: DGOORRV -GOORV +0 0
+>New_Player_1: AABEIMS 8H ABEAM +24 24
+>Quackle: AADPRRU L8 .ARAUD +18 18
+>New_Player_1: EEIILSV 10H LIVE.IES +71 95
+>Quackle: HIOPRTV O5 PIVOT. +33 51
+>New_Player_1: EGNRRTT K5 GRE.T.N +38 133
+>Quackle: AHLNRTU N5 UH +30 81
+>New_Player_1: AEKOQRT M3 QAT +29 162
+>Quackle: AILMNRT 13I MAN.RIL +26 107
+>New_Player_1: EKNORUY 14D YOUNKER +76 238
+>Quackle: CEITWWX O12 C.EW +36 143
+>New_Player_1: AAELLOU 15G AAL +34 272
+>Quackle: DINSTWX M9 X. +35 178
+>New_Player_1: CEGILOU 15A LUGE +24 296
+>Quackle: DINSTWZ 4L W.D +21 199
+>New_Player_1: CEFIIIO 13B FIE +18 314
+>Quackle: INNOSTZ 11E SOZIN +32 231
+>New_Player_1: CIIJNOR F10 J. +25 339
+>Quackle: ?DFNSTT 14N F. +20 251
+>New_Player_1: BCIINOR 12A BI +12 351
+>Quackle: ?DHNSTT 7F NTH +12 263
+>New_Player_1: CGINOOR F1 CROONI.G +65 416
+>Quackle: ?ADEOST 1E A.cOSTED +86 349
+>New_Player_1: EEEOOSY 4D SO.EY +24 440
+>Quackle: ?DIPRT 12F TaD +31 380
+>New_Player_1: EEO L4 .EE +16 456
+>Quackle: IPR 5C PIR. +18 398
+>Quackle:  (O) +2 400

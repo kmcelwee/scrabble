@@ -1,27 +1,29 @@
-#player1 New_Player_1 New Player 1
-#player2 Quackle Quackle
->New_Player_1: IOOTTUU -IOOTTUU +0 0
->Quackle: EEGINOX 8C EXOGEN +44 44
->New_Player_1: ACIKORS I4 ARKOSIC +80 80
->Quackle: ILNTTTY H1 TINY +42 86
->New_Player_1: AAFIUUV F6 FU.U +16 96
->Quackle: AILMTTW 7B TWA +28 114
->New_Player_1: AAIINVV 6A VIA +18 114
->Quackle: ADEILMT 10C MALEDI.T +78 192
->New_Player_1: ?AEILNV 2H .NVIAbLE +86 200
->Quackle: BEEFGNT O1 B.EF +39 231
->New_Player_1: DEIJORT L1 J.TO +38 238
->Quackle: EGHINOT 11D HO +19 250
->New_Player_1: ?DEGIRU 12C fIGURED +84 322
->Quackle: EEGINST O1 ....IEST +39 289
->New_Player_1: AHPRRST K10 SHARP +34 356
->Quackle: AEEGNNZ L12 GEEZ +60 349
->New_Player_1: EILNRRT D4 REL.. +31 387
->Quackle: ACENNOO 15L .OON +39 388
->New_Player_1: AILMNRT M11 LAM +24 411
->Quackle: ACENOQU 13A QUA +26 414
->New_Player_1: BDINPRT 14B PRINT +28 439
->Quackle: CEINOOR 15A COON +32 446
->New_Player_1: ABDDESY N6 BEADY +39 478
->Quackle: EIRW J4 WEIR +30 476
->Quackle:  (DS) +6 482
+#player1 Quackle Quackle
+#player2 New_Player_1 New Player 1
+>Quackle: CEGIMNR 8H CRINGE +22 22
+>New_Player_1: AEITUVY K5 VAU.TIE +40 40
+>Quackle: ?ABDDMT J8 .AMB +30 52
+>New_Player_1: FHOOQUY 9M FOY +22 62
+>Quackle: ?DDLMTV N8 D.M +23 75
+>New_Player_1: EHOQSTU 6F QUOTH. +46 108
+>Quackle: ?DFLTVW -DFTVW +0 75
+>New_Player_1: ADEENSU F6 .UA +12 120
+>Quackle: ?ACEILS H8 .AlICLES +92 167
+>New_Player_1: DDEEENS L10 DEED +23 143
+>Quackle: EEEIOOR 13H .OOE. +7 174
+>New_Player_1: EGLNSTZ 9G Z. +21 164
+>Quackle: EEIINRY N8 ...INIE +20 194
+>New_Player_1: DEGLNST 14F GL.ED +24 188
+>Quackle: EGIPRXY 12B PYREXI. +42 236
+>New_Player_1: FLNNSTT -FLNT +0 188
+>Quackle: AEGIKST 15L KIST +50 286
+>New_Player_1: AINSTVW E9 WAV. +20 208
+>Quackle: AAEGOOT 5D GOA +21 307
+>New_Player_1: EHINOST 7F .H +18 226
+>Quackle: AAEORRT D1 ARRO.ATE +72 379
+>New_Player_1: EEINOST 3B SE.OTINE +70 296
+>Quackle: ABLNORW 1A NAW.B +30 409
+>New_Player_1: ?FILNRT C6 LIFT +19 315
+>Quackle: JLNOPRU B10 JU.ON +60 469
+>New_Player_1: ?NRS C11 S.ReN +21 336
+>New_Player_1:  (LPR) +10 346

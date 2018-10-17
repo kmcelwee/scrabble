@@ -1,28 +1,27 @@
-#player1 New_Player_1 New Player 1
-#player2 Quackle Quackle
->New_Player_1: AFLNOST 8D FONTAL +26 26
->Quackle: BDEITWY F6 WI.DY +28 28
->New_Player_1: ?AAFIOS G6 OF. +24 50
->Quackle: BEEITTV E4 VET +18 46
->New_Player_1: ?AAAEIS 4D A.A +12 62
->Quackle: BEEIORT E10 BOITE +21 67
->New_Player_1: ?AEEISU 13C EU.AxIES +66 128
->Quackle: CDEEIIR H11 IC.ER +30 97
->New_Player_1: EEGLMNS D11 GL.ME +29 157
->Quackle: DEEEINO 12H .OINED +22 119
->New_Player_1: BEMNPRS F12 B.M +31 188
->Quackle: DEEHQTU F2 QU. +32 151
->New_Player_1: AEINPRS 1E RAPINES +90 278
->Quackle: DEEHNTW 11G W.THED +42 193
->New_Player_1: AEGORTV 15A GAV. +24 302
->Quackle: AEKNOPR C2 POKE +31 224
->New_Player_1: ADEEORT 10J ADO +23 325
->Quackle: AIINRRZ 2K IZAR +28 252
->New_Player_1: AEERTTY 3L AYE +35 360
->Quackle: GINRSUX 4J NIX +58 310
->New_Player_1: EINRRTT C2 ....R +11 371
->Quackle: CGHORSU 1M HOG +33 343
->New_Player_1: EIJNRTT 5I JET +26 397
->Quackle: CLORSUU 2B U. +8 351
->New_Player_1: ?ILNRST A8 LuSTRIN. +77 474
->New_Player_1:  (CLNORSU) +18 492
+#player1 Quackle Quackle
+#player2 New_Player_1 New Player 1
+>Quackle: AEOPTTY 8G TEAPOY +30 30
+>New_Player_1: ?CDEIKO 7B hOICKED +71 71
+>Quackle: EGLNOPT K5 PEL.TON +36 66
+>New_Player_1: ABDMOUV J3 OVUM +29 100
+>Quackle: AACGIYZ J10 YAGI +31 97
+>New_Player_1: ABDFINS 8A NAIF +45 145
+>Quackle: ACEEENZ 3I Z.EAE +48 145
+>New_Player_1: BDEFIST 13I B.FID +28 173
+>Quackle: ?CENORR 11C CORNERm.. +70 215
+>New_Player_1: AEGISTT 12L TAG +15 188
+>Quackle: ADIQRWX 14F QADI +38 253
+>New_Player_1: EIIRSTV 15A REVISIT +96 284
+>Quackle: IMNRUWX L2 W.X +26 279
+>New_Player_1: ABEENRT 9H BE +14 298
+>Quackle: AEIMNRU 10J ..U +6 285
+>New_Player_1: AEEGNRT 15I GREATEN +83 381
+>Quackle: AEIMNRR N5 REARMIN. +65 350
+>New_Player_1: DJLNOOS D10 D.JO +24 405
+>Quackle: AEHHISU O6 HIE +31 381
+>New_Player_1: LNOSSUW 6A OW +26 431
+>Quackle: AHLOSTU 2L .HO +23 404
+>New_Player_1: LLNSSU F3 SLUN. +11 442
+>Quackle: ALSTU O1 TAUS +25 429
+>New_Player_1: LS 13C S.L +6 448
+>New_Player_1:  (L) +2 450

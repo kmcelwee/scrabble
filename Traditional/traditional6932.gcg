@@ -1,30 +1,27 @@
-#player1 New_Player_1 New Player 1
-#player2 Quackle Quackle
->New_Player_1: CHNNPST 8G PHT +16 16
->Quackle: ?DEOORU H8 .OnOURED +86 86
->New_Player_1: ACENNRS 11E ANC.NES +36 52
->Quackle: EEGILLN I13 EL +8 94
->New_Player_1: BERRSVY 10J BERRY +36 88
->Quackle: AEGIILN M3 GAINLIE. +72 166
->New_Player_1: ELOOSSV 8L V.OL +33 121
->Quackle: CLOOTTY 12A COOLY +31 197
->New_Player_1: EEJOSSU 10B JOES +33 154
->Quackle: GINQTTT 4L Q.T +24 221
->New_Player_1: AEEISUX O1 AXIS +50 204
->Quackle: GIINTTT G13 IT +10 231
->New_Player_1: EEEIISU -EEIIU +0 204
->Quackle: FGINOTT A12 .OFT +27 258
->New_Player_1: ADEIMRS I2 READMI.S +67 271
->Quackle: AAFGINT N1 FA +33 291
->New_Player_1: EEHIPUZ 1G ZIP +56 327
->Quackle: AAEGINT B14 AA +16 307
->New_Player_1: EEGHIUW 5C WEIGHE. +30 357
->Quackle: DEGINOT 4B GOD +21 328
->New_Player_1: BEIKRTU 6K BU.K +20 377
->Quackle: EIMNNTU 1E UN... +16 344
->New_Player_1: EINRTUV B2 VU. +14 391
->Quackle: DEIMNRT 3A M.D +26 370
->New_Player_1: ?EEINRT 6C NE +14 405
->Quackle: AEINRTW N10 .AWNER +24 394
->New_Player_1: ?AEIRT 14D sTA...IER +12 417
->New_Player_1:  (IT) +4 421
+#player1 Quackle Quackle
+#player2 New_Player_1 New Player 1
+>Quackle: DGIIIOS -GIIIO +0 0
+>New_Player_1: DEILLQT 8G QI +22 22
+>Quackle: ADINNPS 9F PINNA +23 23
+>New_Player_1: DEELLPT J6 PET.LLED +69 91
+>Quackle: DDEGIIS 10A GIDDIES +82 105
+>New_Player_1: BELNNRW B9 W.NNER +18 109
+>Quackle: ?ORRTUY 8J .RYOUT +39 144
+>New_Player_1: BELOOTT A12 OBOL +30 139
+>Quackle: ?AEILOR C3 tAILORE. +76 220
+>New_Player_1: ?EGOTTU L4 GOUT. +18 157
+>Quackle: AACJOTV 3K JAVA +38 258
+>New_Player_1: ?AEESTT O8 .EsTATES +74 231
+>Quackle: AACIOTU 13A ..AU +12 270
+>New_Player_1: EEGKNUY N12 KEY +38 269
+>Quackle: ACIOOTW K3 .AW +39 309
+>New_Player_1: CDEGINU D1 GUID +23 292
+>Quackle: CEIOORT M10 COOTER +35 344
+>New_Player_1: ACEEHNR 15G RANCHE. +39 331
+>Quackle: BHIIMRS O1 RISHI +51 395
+>New_Player_1: AEEISVX K11 AXE +36 367
+>Quackle: BFMMNOZ D12 B.MF +30 425
+>New_Player_1: EFISV H12 VIS. +11 378
+>Quackle: MNOZ 7B Z.OM +15 440
+>New_Player_1: EF 11E FE +25 403
+>New_Player_1:  (N) +2 405

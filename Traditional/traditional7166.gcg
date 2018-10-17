@@ -1,26 +1,30 @@
-#player1 New_Player_1 New Player 1
-#player2 Quackle Quackle
->New_Player_1: AADIINV 8C AVIDIN +28 28
->Quackle: ABLMPRR C3 RAMBL. +22 22
->New_Player_1: AEHLOOS D4 HAO +30 58
->Quackle: EGPRRSW E5 SPR.G +33 55
->New_Player_1: AELOOSW B1 WOO +14 72
->Quackle: EEENRTW A3 TWEENER +95 150
->New_Player_1: AEILNOS 10B ANISOLE +70 142
->Quackle: ABEIIUU -ABIIUU +0 150
->New_Player_1: EIKNTUY F2 YEUK +29 171
->Quackle: DENORSS 11F SONDERS +72 222
->New_Player_1: AEGINPT 7E .ETAPING +73 244
->Quackle: ABCEIQU 6J QUAI +69 291
->New_Player_1: AHILRTU 10J HAUL +32 276
->Quackle: BCEINTX 12D IBEX +39 330
->New_Player_1: IJLRRTU 1A T.IRL +27 303
->Quackle: CDFNTYZ J10 ..FTY +22 352
->New_Player_1: EIJMORU N10 MOIRE +42 345
->Quackle: ACCDENZ 8L ADZE +50 402
->New_Player_1: EEJOTUV 13B JUTE +28 373
->Quackle: ?ACCFIN D3 C... +15 417
->New_Player_1: ?DEGOTV O4 VErG. +12 385
->Quackle: ?ACFINO 15L FIsC +43 460
->New_Player_1: DOT 14A DOT +28 413
->New_Player_1:  (ANO) +6 419
+#player1 Quackle Quackle
+#player2 New_Player_1 New Player 1
+>Quackle: BEIIMPS 8G MIB +14 14
+>New_Player_1: EEEIJOV 9E JOE +16 16
+>Quackle: ?EEILPS 10F ELlIPSE +75 89
+>New_Player_1: EEEINOV K10 .IEVE +16 32
+>Quackle: AEGHILR 14J H.GIRA +36 125
+>New_Player_1: EENNORS 15N EN +14 46
+>Quackle: ?CELOUW H10 .OCULE +30 155
+>New_Player_1: AENORST 15A RESONAT. +77 123
+>Quackle: ?ABIOUW 13M BOW +33 188
+>New_Player_1: FFOPSTX L9 T.FF +35 158
+>Quackle: ?AEIINU 14A EAU +14 202
+>New_Player_1: CLNOPSX 13C POX +34 192
+>Quackle: ?ADIINW 12D WAD +33 235
+>New_Player_1: CLNNRST I8 .L.N +9 201
+>Quackle: ?IINOTT E11 T..O. +24 259
+>New_Player_1: CKNRSTU J4 TUCKS +25 226
+>Quackle: ?GIINTY F14 Y. +26 285
+>New_Player_1: DEINRRZ K3 ZIN +30 256
+>Quackle: ?AGIINT M3 INTAGlI +73 358
+>New_Player_1: DDEIRRR 6J .ED.R +23 279
+>Quackle: AAHMORS 2J HAO +28 386
+>New_Player_1: DILRRTU 1L DURR +26 305
+>Quackle: AADMQRS 13G Q.A +23 409
+>New_Player_1: EIILNTY O4 TINILY +39 344
+>Quackle: AADMORS 1G ARMS +23 432
+>New_Player_1: EEGV N9 VEG +19 363
+>Quackle: ADO 15J ADO +24 456
+>Quackle:  (E) +2 458

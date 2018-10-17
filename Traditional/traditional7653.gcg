@@ -1,29 +1,26 @@
-#player1 Quackle Quackle
-#player2 New_Player_1 New Player 1
->Quackle: ADDEINT 8F NIDATED +72 72
->New_Player_1: AFGHMMS 7G HAM +34 34
->Quackle: EEEGITW 9I WITE +30 102
->New_Player_1: DFGKMOS 10F FOGS +25 59
->Quackle: BEEGNPR 11D BEEP +25 127
->New_Player_1: BCDKMOX 12C BOX +41 100
->Quackle: AGGJNRT 6F JAG +38 165
->New_Player_1: ?CDFKMQ -DFMQ +0 100
->Quackle: GLLNRTU K4 GULL.. +14 179
->New_Player_1: ?CEIKRT 12G TRiCKIE +81 181
->Quackle: DHNORST N9 THORNS +47 226
->New_Player_1: IIMQRVY O8 QI +35 216
->Quackle: ?ADDOOZ 13B ZOO +37 263
->New_Player_1: IIMRVYY H12 .IMY +27 243
->Quackle: ?ADDLNR 4D RADDLiN. +72 335
->New_Player_1: AAEIRVY 14B AY +40 283
->Quackle: EEINOPT 15B POI +29 364
->New_Player_1: ACEIORV H1 VIO. +21 304
->Quackle: EENRTUU K11 U.E +14 378
->New_Player_1: ACEEORR 3A OCREAE +23 327
->Quackle: AENNRTU A1 UN.RNATE +131 509
->New_Player_1: AEEILRV B2 A.E +16 343
->Quackle: AEFINTW B6 WIFE +38 547
->New_Player_1: EILRSSV 1H .IVERS +13 356
->Quackle: ANTU C6 ANT +20 567
->New_Player_1: LS 15A S...L +21 377
->New_Player_1:  (U) +2 379
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: DKLRSUV 8G LUV +12 12
+>Quackle: BEIILLY I7 I.Y +14 14
+>New_Player_1: AADEKRS 9I .AK +10 22
+>Quackle: BEILLLN 10J BILL +28 42
+>New_Player_1: ADEEORS 11J ODA +31 53
+>Quackle: AEELNST 12D LATEENS +72 114
+>New_Player_1: EEIIPRS 12L PIE +20 73
+>Quackle: HINRRUW O8 WHIRR +43 157
+>New_Player_1: EEINRSV 7A INVERSE +68 141
+>Quackle: ?CGNOUY A4 YOG.C +45 202
+>New_Player_1: BNOOOUW N6 WOO +19 160
+>Quackle: ?MNNRTU 11E MUN +22 224
+>New_Player_1: BDNOSUU 9C BOUND +19 179
+>Quackle: ?AFNRTZ 6I TZAR +43 267
+>New_Player_1: EIJOSSU O8 .....IES +42 221
+>Quackle: ?AFNNTT 5K FAN +24 291
+>New_Player_1: AGJOOSU 4L JUGA +48 269
+>Quackle: ?ADNRTT 3J TRAD +29 320
+>New_Player_1: EOOOPRS 15H OOSPORE. +83 352
+>Quackle: ?FGIMNT 14B FIGMeNT +76 396
+>New_Player_1: ?CEEHTX 13B EX +41 393
+>Quackle: ADEEIQT 10B QI +35 431
+>New_Player_1: ?ACEHIT 2D ACHIoTE +75 468
+>New_Player_1:  (ADEEET) +14 482

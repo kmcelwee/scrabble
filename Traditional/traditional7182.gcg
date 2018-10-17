@@ -1,37 +1,27 @@
-#player1 New_Player_1 New Player 1
-#player2 Quackle Quackle
->New_Player_1: AAAFIOQ -AAAFIOQ +0 0
->Quackle: ?EHSTTV 8G VET +12 12
->New_Player_1: GIJMNSW J6 JISM +36 36
->Quackle: ?DHNQST -DNQ +0 12
->New_Player_1: FGHNOUW K2 FUNGO +27 63
->Quackle: ?HPPRST H3 PRoPH.TS +65 77
->New_Player_1: AAEHOTW L6 WHOA +24 87
->Quackle: BCEGRRU M9 BURGER +31 108
->New_Player_1: AEILOTU M3 UTILE +32 119
->Quackle: CDGNSTV -CDGV +0 108
->New_Player_1: AADEILO G7 O.A +17 136
->Quackle: EILNSTT 12F SETTLIN. +70 178
->New_Player_1: AADEILR 9L ..A +5 141
->Quackle: DEFOOUV H12 .OFU +21 199
->New_Player_1: ADEILQR F10 QI. +32 173
->Quackle: ADDEOVX 11J AX +38 237
->New_Player_1: ADEILRS O3 REDIALS +83 256
->Quackle: ?DDENOV 11B DEVO.D +25 262
->New_Player_1: ABEEIKT 4B BEAKIE. +26 282
->Quackle: ?EEMNNO B2 NO.lEMEN +76 338
->New_Player_1: DEIILTY D1 IDE.LITY +67 349
->Quackle: AAGINOY A7 AY +34 372
->New_Player_1: ACENRRW 14J WAR.EN +34 383
->Quackle: AGINOOZ 6A N. +8 380
->New_Player_1: CCR 13M .R +4 387
->Quackle: AGIOOZ A2 AG +8 388
->New_Player_1: CC N13 ..C +5 392
->Quackle: IOOZ A1 Z.. +39 427
->New_Player_1: C -  +0 392
->Quackle: IOO E4 .I +16 443
->New_Player_1: C -  +0 392
->Quackle: OO I8 .O +10 453
->New_Player_1: C -  +0 392
->Quackle: O 3G O. +8 461
->Quackle:  (C) +6 467
+#player1 Quackle Quackle
+#player2 New_Player_1 New Player 1
+>Quackle: CEEHTUW 8D WECHT +34 34
+>New_Player_1: ?AABEII F5 ABA.I +15 15
+>Quackle: AEEFSSU I6 FUSEE +24 58
+>New_Player_1: ?AEEITZ E5 ZA +48 63
+>Quackle: AAIMMQS 7I .MIAQ +26 84
+>New_Player_1: ?EEEITV 9B EVE +15 78
+>Quackle: AMOPSUX J10 XU +50 134
+>New_Player_1: ?EIITYY 8K TYIYn +64 142
+>Quackle: AAMOPST H10 SAPOTA +43 177
+>New_Player_1: AEEGIOO C9 .OGIE +18 160
+>Quackle: GIIJMRT G3 JIG +32 209
+>New_Player_1: AEELOOU 3G .OULE +13 173
+>Quackle: BIMRSTW B7 BR.W +30 239
+>New_Player_1: ADEEEGO C3 GEODE +21 194
+>Quackle: IMNRSTT 15G T.NTRISM +61 300
+>New_Player_1: ADEILNO O6 NO.IDEAL +59 253
+>Quackle: CDHNORR H1 RO.D +26 326
+>New_Player_1: DEENOST A6 DOE +23 276
+>Quackle: ACHNNRR 4K RANCH +30 356
+>New_Player_1: EKLNRST 12A KN.T +26 302
+>Quackle: ?AFNNPR A12 .NAP +30 386
+>New_Player_1: ELLORSU O1 LUS. +21 323
+>Quackle: ?FIINRV 13J FRIVo. +22 408
+>New_Player_1: ELOR 5J ORLE +18 341
+>New_Player_1:  (IN) +4 345

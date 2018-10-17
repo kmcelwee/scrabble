@@ -1,27 +1,29 @@
-#player1 New_Player_1 New Player 1
-#player2 Quackle Quackle
->New_Player_1: AAAEEIP -AAAEI +0 0
->Quackle: AAGITWY 8G YAW +18 18
->New_Player_1: CEEJNPW 9F JEW +25 25
->Quackle: ACEGGIT 7F GETA +26 44
->New_Player_1: ACENOPR 10B CREPON +36 61
->Quackle: CEGINRS D7 GEN.RICS +74 118
->New_Player_1: ADEOTTT 11D .AT +24 85
->Quackle: ?AAEFRS C3 SeAFARE. +83 201
->New_Player_1: DENOSTT B5 TOD +20 105
->Quackle: EEIMNRU A1 NEUME +33 234
->New_Player_1: ?EEENST 12F SwEETEN +75 180
->Quackle: HIILRRY 11K YIRR +26 260
->New_Player_1: EEIIORV 14A ERO.IVE +36 216
->Quackle: ABHILNT 13A BAT.H +39 299
->New_Player_1: GILLMOP D1 GLOM +26 242
->Quackle: HIILNQU 13I HIN +27 326
->New_Player_1: ABDILPU N8 UPB.AID +36 278
->Quackle: ILLOQUU M13 QI +47 373
->New_Player_1: DDLNOOO A11 LO..D +27 305
->Quackle: FLLOUUX 15G FLUX +47 420
->New_Player_1: ADINOOS O6 DANIOS +43 348
->Quackle: ALOTUVZ N4 AVO +13 433
->New_Player_1: IIKO 10L KO.. +19 367
->Quackle: LTUZ M1 LUTZ +37 470
->Quackle:  (II) +4 474
+#player1 Quackle Quackle
+#player2 New_Player_1 New Player 1
+>Quackle: EELOOPR 8D POOLER +22 22
+>New_Player_1: ?CEMSTT H1 SMECTiT. +92 92
+>Quackle: BDEGIRT E5 BIG.TED +44 66
+>New_Player_1: AEHINRT D8 .ERIANTH +91 183
+>Quackle: ?BNRUWX 3H .XURB +22 88
+>New_Player_1: AFGNPST M3 SPANG +50 233
+>Quackle: ?EFIINW F5 IF +30 118
+>New_Player_1: DEFRTVY 15D .EFTY +42 275
+>Quackle: ?EIINUW 10B WI.. +15 133
+>New_Player_1: DGORRSV C9 V.G +26 301
+>Quackle: ?AEINUZ 1H .UZErAIN +98 231
+>New_Player_1: DJORRSW 5J JOW.R +30 331
+>Quackle: AEINOUV 14B VI.AE +29 260
+>New_Player_1: DEEHLRS O5 SHED +40 371
+>Quackle: AAEINOU N5 .AIA +21 281
+>New_Player_1: AELOOQR 4L O. +24 395
+>Quackle: AENOOUU -AOOUU +0 281
+>New_Player_1: ADELOQR 2B EARLDO. +28 423
+>Quackle: ACEENNO 1A CANOE +33 314
+>New_Player_1: IKLMOQR D4 KOR +25 448
+>Quackle: DEELNOU 6J OE +17 331
+>New_Player_1: IILMNQS 9L QIS +18 466
+>Quackle: ADELNUY L9 .UALE +28 359
+>New_Player_1: ILMNTU 12I TIL. +4 470
+>Quackle: DNY 11C ...DY +11 370
+>New_Player_1: MNU M13 MUN +18 488
+>New_Player_1:  (N) +2 490

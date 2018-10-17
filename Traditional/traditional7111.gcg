@@ -1,27 +1,29 @@
-#player1 Quackle Quackle
-#player2 New_Player_1 New Player 1
->Quackle: LLLNNOU 8G NULL +8 8
->New_Player_1: ?DFIPRU J1 PRIDeFU. +73 73
->Quackle: EEILNOT 4C ENTOILE. +70 78
->New_Player_1: ENPSVYY 3I P.NEY +33 106
->Quackle: ADIJNSX G6 JI.X +27 105
->New_Player_1: OSSTVVY 1H TY.OS +33 139
->Quackle: AADEGNS F9 AGENDAS +74 179
->New_Player_1: ACESUVV 14B VACU. +20 159
->Quackle: AEINOOS H4 .OO +12 191
->New_Player_1: BEFRRSV 11E R.VERBS +48 207
->Quackle: AEIINNS 5D AIN +14 205
->New_Player_1: AEFHMWW 15F .HAWM +39 246
->Quackle: AEEINSU 10I EAU +15 220
->New_Player_1: ABCEFOW 4L FEW +33 279
->Quackle: EHIINST N4 .HINIEST +68 288
->New_Player_1: AABCEOT O11 ABATE +32 311
->Quackle: ?ADGTTZ C1 GAZ.TTeD +90 378
->New_Player_1: CEGLOOR 1A LO.GER +30 341
->Quackle: EEIIIKQ M6 QI +26 404
->New_Player_1: CDMOORR B8 ORC +14 355
->Quackle: EEIIKO 6A KI.E +13 417
->New_Player_1: DMOR A6 .OR +33 388
->Quackle: EIO 14I OE +15 432
->New_Player_1: DM C13 D.M +12 400
->New_Player_1:  (I) +2 402
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: ?JLOORT 8G JOLT +22 22
+>Quackle: ?ACDOOV 9A aVOCADO +74 74
+>New_Player_1: ?AIIOOR D9 .IAO +12 34
+>Quackle: ADDEGHY K4 HEDGY +41 115
+>New_Player_1: ?AAIIOR 4J O.IA +14 48
+>Quackle: ADGMPRU A4 GRAMP. +36 151
+>New_Player_1: ?AEILRU 4A .UERIlLA +68 116
+>Quackle: BDIPRRU 10G BURP +26 177
+>New_Player_1: AABEEEL B7 EA.E +17 133
+>Quackle: DGIIKRW E11 WIG +26 203
+>New_Player_1: ABELNNR H10 .NBALE +33 166
+>Quackle: CDIIIKR 3M KID +28 231
+>New_Player_1: INNNORW 6A .WN +33 199
+>Quackle: CFIIRRS H1 FRI.R +24 255
+>New_Player_1: EEINNOR O1 NO.E +18 217
+>Quackle: ACEIISV 14G C.IVIA +19 274
+>New_Player_1: EINQRUU 2B UNIQUE. +36 253
+>Quackle: EELMNNS 15L MELS +34 308
+>New_Player_1: EEFRSTX I13 X. +34 287
+>Quackle: EENNOSY 6H YON. +22 330
+>New_Player_1: EEFRSTT 11J EFT +16 303
+>Quackle: AEENOST 12L OE +8 338
+>New_Player_1: DEHRSTT B6 .....D +13 316
+>Quackle: AENSSTT M10 TS.TS. +31 369
+>New_Player_1: EHRSTTZ F4 .EZ +31 347
+>Quackle: AEN 1A ANE +13 382
+>Quackle:  (HRSTT) +16 398

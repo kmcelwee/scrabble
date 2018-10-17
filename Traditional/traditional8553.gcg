@@ -1,27 +1,28 @@
-#player1 New_Player_1 New Player 1
-#player2 Quackle Quackle
->New_Player_1: ALLNRTW 8H TRAWL +18 18
->Quackle: ACRSTTU L3 CURTA. +16 16
->New_Player_1: DGLNTUX 6L .UX +26 44
->Quackle: ALNNOST J5 SON.NTAL +62 78
->New_Player_1: DEFGLNT 11H FL.NGED +24 68
->Quackle: KLOOQRU H11 .LOOR +27 105
->New_Player_1: ?BDIRTV M10 V.RBID +24 92
->Quackle: AEIKQRU 3I QUI.KER +64 169
->New_Player_1: ?AAFHTV O1 VA.A +24 116
->Quackle: AAEGIMT 15C GEMAT.IA +62 231
->New_Player_1: ?FHJMOT 14J MOT.F +42 158
->Quackle: EGIINUY I3 .UEY +23 254
->New_Player_1: ?EEHIJT 13K JI.E +29 187
->Quackle: ?GIINOS E8 jINGOIS. +70 324
->New_Player_1: ?EEEHNT 8H .....NET +33 220
->Quackle: BEIPSWY N2 B.Y +29 353
->New_Player_1: ?CEEHIO F2 CHEErIO +68 288
->Quackle: ADEIPSW 14B PAW. +26 379
->New_Player_1: ADEEIOS 10L A.E +16 304
->Quackle: DEIOPSZ C13 Z.. +26 405
->New_Player_1: DEINORS 13K ....D +15 319
->Quackle: DEHIOPS 3C SID.E +20 425
->New_Player_1: EEINORS 4A IRON +16 335
->Quackle: HOP 10B PHO. +15 440
->Quackle:  (EES) +6 446
+#player1 Quackle Quackle
+#player2 New_Player_1 New Player 1
+>Quackle: EEELOTU -EEOU +0 0
+>New_Player_1: AAEFOWY 8F OFAY +20 20
+>Quackle: CEELPRT 9E PRELECT +79 79
+>New_Player_1: ACENTWX 8K EXACT +68 88
+>Quackle: DDELORU 7I DURO +28 107
+>New_Player_1: EMNNRSW J9 .WM +18 106
+>Quackle: DEEILOV 10B LEVIED +30 137
+>New_Player_1: EHLNNRS 6L LEHR +25 131
+>Quackle: EEGIOTU D10 .OGUE +18 155
+>New_Player_1: AAJLNNS 14A JAN. +22 153
+>Quackle: BEFIOOT 15A OBE +48 203
+>New_Player_1: AALNRSW 13B WA.L +28 181
+>Quackle: DFIOQTT K11 OFT +20 223
+>New_Player_1: AANNRSU L11 NAAN +25 206
+>Quackle: BDIKQTT 13H DIK..T +24 247
+>New_Player_1: EEORRSU N10 ROUSE +26 232
+>Quackle: BIIPQST 11C T.P +26 273
+>New_Player_1: DEMORRV O1 DROVE. +42 274
+>Quackle: BGIINQS 12G QI +16 289
+>New_Player_1: IIIMNRS 15G MIRINS +33 307
+>Quackle: ?BGINNS 3K BING. +16 305
+>New_Player_1: AEGIIIU 4H AGUE +10 317
+>Quackle: ?ENOSTY 5E ETYmONS +102 407
+>New_Player_1: ?AHIIIZ 2J ZoA +38 355
+>Quackle: AS 12A AS +12 419
+>Quackle:  (HIII) +14 433

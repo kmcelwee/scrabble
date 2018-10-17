@@ -1,31 +1,25 @@
-#player1 New_Player_1 New Player 1
-#player2 Quackle Quackle
->New_Player_1: ?AEEOPZ 8C EPAZOtE +90 90
->Quackle: EGLMRSW 7G MEWL +33 33
->New_Player_1: ABCEFLO 7C FOB +29 119
->Quackle: AGOQRRS 9E RAG +30 63
->New_Player_1: ACEEFLV 10B FAVE +24 143
->Quackle: ANOQRRS 11E ROAN +22 85
->New_Player_1: CEELMSW J4 MEW.S +36 179
->Quackle: AHNQRST K3 QAT +32 117
->New_Player_1: CDDEELP 4J ..CLED +26 205
->Quackle: AEHINRS 12G HERNIAS +80 197
->New_Player_1: DDEOPTU O1 POD.ED +33 238
->Quackle: EIINOXY 11J OXY +51 248
->New_Player_1: ?EJTTUY N2 JE. +41 279
->Quackle: EIIINOU -IIIOU +0 248
->New_Player_1: ?ISTTUY H11 ..TTY +24 303
->Quackle: ABDEINN M3 B.AIN +28 276
->New_Player_1: ?INSSTU 13A NUTSIeS. +73 376
->Quackle: DEENOUU A12 U.DE +18 294
->New_Player_1: CHIIKOV 13L KHI +40 416
->Quackle: ENORRTU 6H RO. +14 308
->New_Player_1: CGIIOTV 9A GIT +18 434
->Quackle: EENRRTU A7 RU. +12 320
->New_Player_1: CIILOOV N7 OVOLI +12 446
->Quackle: EEGLNRT 5M .R. +14 334
->New_Player_1: AACIIIN J10 I..IC +15 461
->Quackle: EEGLNTU D4 NET.. +14 348
->New_Player_1: AAIN 14M ANI +16 477
->Quackle: EGLU C1 GLUE +12 360
->Quackle:  (A) +2 362
+#player1 Quackle Quackle
+#player2 New_Player_1 New Player 1
+>Quackle: ABEEGJL 8D JEBEL +44 44
+>New_Player_1: CENNOOR 9G NONCORE +67 67
+>Quackle: AGIIIPV 8M PIA +19 63
+>New_Player_1: ?AHLSUY M3 UnSHA..LY +84 151
+>Quackle: AGIIINV D8 .IVING +34 97
+>New_Player_1: BCEEPRS L9 .EBEC +27 178
+>Quackle: ADEINOT 11A IOD.NATE +68 165
+>New_Player_1: DEIOPRS C3 PERIODS +93 271
+>Quackle: AEIIKOT B4 OAK +37 202
+>New_Player_1: ?LNOTTX H11 .XTOL +60 331
+>Quackle: EIIRTWY B10 Y.WIE +38 240
+>New_Player_1: ?NNOTUU 13J UN.UT +14 345
+>Quackle: ADEIIRT I9 .IDI +25 265
+>New_Player_1: ?ALMNOV K8 N.MA +33 378
+>Quackle: AADEQRT A13 QAT +49 314
+>New_Player_1: ?HLOOSV A1 HOOVeS +64 442
+>Quackle: AADEERS B1 AE +13 327
+>New_Player_1: AEFGLRT 3G GRATEF.L +65 507
+>Quackle: ADERRSU 6L U. +5 332
+>New_Player_1: EFGIRTZ F10 Z.FTIG +41 548
+>Quackle: ADEMRRS O10 ARMERS +41 373
+>New_Player_1: ERW K2 W.ER +14 562
+>New_Player_1:  (D) +4 566

@@ -1,25 +1,30 @@
-#player1 Quackle Quackle
-#player2 New_Player_1 New Player 1
->Quackle: ADNORSU 8D AROUND +16 16
->New_Player_1: CEEINNT E1 INCENTE. +70 70
->Quackle: AEEFOSV 4B FOV.AE +24 40
->New_Player_1: ADGIJNY 1A GAIJ.N +66 136
->Quackle: ?AEHMOS 3G HOMAgES +95 135
->New_Player_1: DGMRSVY J2 M.RVY +27 163
->Quackle: EILORTZ L3 .ROTIZE +52 187
->New_Player_1: ADDGSXY M7 SAX +50 213
->Quackle: FGHLPTT F7 T.PH +19 206
->New_Player_1: ABDDGWY C3 D.WDY +34 247
->Quackle: DFGLOTU 10J FUD +33 239
->New_Player_1: ABEGRSU 8L ..GS +42 289
->Quackle: EGILLOT 11C OGLE +20 259
->New_Player_1: ABEIRSU O1 AIRBUSE. +89 378
->Quackle: EILOOTW 12C WOO +25 284
->New_Player_1: ?AEEEIN 13B AE +16 394
->Quackle: EIIILOT A9 IOLITE +10 294
->New_Player_1: ?AEEINP 13E PErINEA +64 458
->Quackle: AIILQRT 12H QI +44 338
->New_Player_1: BCELNRU 14K BURN +16 474
->Quackle: AIKLRTT 12K TRAIK +33 371
->New_Player_1: CEL 10C LEC. +28 502
->New_Player_1:  (LT) +4 506
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: NNORSSV -NSV +0 0
+>Quackle: ADIOSTT 8D DITTO +16 16
+>New_Player_1: AIINORS 9G OI +8 8
+>Quackle: AANNOPS E4 ANOP.A +16 32
+>New_Player_1: AFIINRS F6 FI. +31 39
+>Quackle: ANRRSTU G6 TU..R +18 50
+>New_Player_1: AEINRSX 4A XENI. +40 79
+>Quackle: AFJLNRS A1 FLA. +42 92
+>New_Player_1: AHILRSY 3A .YAH +34 113
+>Quackle: ?CEJNRS C2 J..E +11 103
+>New_Player_1: IILORSZ 11B ZORILS +36 149
+>Quackle: ?CNRSTU F1 CUTS +21 124
+>New_Player_1: EEEGISU 1F .UE +15 164
+>Quackle: ?BLMNRV 2E V.M +12 136
+>New_Player_1: EEGIRSS B11 .IGS +28 192
+>Quackle: ?BLNORR D10 B.RR +12 148
+>New_Player_1: AAEERSW I1 SEAWARE +68 260
+>Quackle: ?AKLNOW A12 KAON +55 203
+>New_Player_1: ABCDDGY 5H C.DGY +24 284
+>Quackle: ?EEELTW J7 TWEEdLE +63 266
+>New_Player_1: ?ABDEMO 14H ABDOMEn +95 379
+>Quackle: HINNORU 15D HOURI +42 308
+>New_Player_1: AGLOPTV M13 V.G +14 393
+>Quackle: EEENNNQ J2 NEE. +18 326
+>New_Player_1: AIILOPT 6K OAT +11 404
+>Quackle: DENNQ K8 END +14 340
+>New_Player_1: IILP 4L PILI +30 434
+>New_Player_1:  (NQ) +22 456

@@ -1,27 +1,29 @@
-#player1 Quackle Quackle
-#player2 New_Player_1 New Player 1
->Quackle: ?CGLNRR -GLNR +0 0
->New_Player_1: EIJPRTT 8D JITTER +42 42
->Quackle: ?CGIRUY I5 CUR.YInG +68 68
->New_Player_1: LNOPPRV E4 POPL.N +20 62
->Quackle: ADEHIOO D4 OHO +29 97
->New_Player_1: EHINRVV 12C REVVIN. +30 92
->Quackle: ADEEEIM H11 E.EMA +22 119
->New_Player_1: AAEHKOR C4 HOKE +35 127
->Quackle: AADDEIS J8 SAD +34 153
->New_Player_1: ?AAAORX 14H .OXA +29 156
->Quackle: ADEIINS 5H S.IAENID +72 225
->New_Player_1: ?AAERTU O2 qUA.RATE +77 233
->Quackle: EFGIIOT M3 GO.IF +26 251
->New_Player_1: ELNOQST J4 Q. +11 244
->Quackle: BBDEIOT L4 B.TIDE +37 288
->New_Player_1: EELNOST N4 L.E +17 261
->Quackle: BLORUWY 15K BLOWY +46 334
->New_Player_1: EEFNOST 13J OFTEN +33 294
->Quackle: CIRRTUW H1 WRIT. +27 361
->New_Player_1: AEILSSZ C9 ZAI.E +48 342
->Quackle: AACDGRU 3A ARC +38 399
->New_Player_1: ELMNSSU A1 SE.M +27 369
->Quackle: ADGNU 10L DUG +20 419
->New_Player_1: LNSU 10A UL.NS +18 387
->New_Player_1:  (AN) +4 391
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: AEGINOV 8D VOGIE +26 26
+>Quackle: AACDNUY F6 YU.A +16 16
+>New_Player_1: AGHJMNO 9H MAHJONG +76 102
+>Quackle: ACDEFNS O4 DECAFS +63 79
+>New_Player_1: EINRTTU M3 NUTRIE.T +68 170
+>Quackle: CNOOPQX J6 QOP. +38 117
+>New_Player_1: ADMRRTV L1 DRAM +28 198
+>Quackle: ACDNOXZ 2I CZA. +35 152
+>New_Player_1: BRRSTTV -BRTV +0 198
+>Quackle: DEHKNOX K9 .OKED +34 186
+>New_Player_1: AEELRST 13G TREA.LES +72 270
+>Quackle: EHNNOTX 7E T.X +37 223
+>New_Player_1: BEELTWY H12 B.EW +36 306
+>Quackle: EEHNNOO 14L OHO +23 246
+>New_Player_1: EILSTTY 12H .YT. +16 322
+>Quackle: BEEINNR K5 BIN +23 269
+>New_Player_1: EILNSTV J12 ..V +14 336
+>Quackle: ?EEINRU 1L .UNE +15 284
+>New_Player_1: AEILNST D8 .ENTAILS +74 410
+>Quackle: ?EFIORR 15A FRI.E +24 308
+>New_Player_1: ADIILOU C9 DOULA +31 441
+>Quackle: ??IOPRS L12 S..P +38 346
+>New_Player_1: EEGIINR A14 I. +5 446
+>Quackle: ??AIORW B4 RAInbOW +86 432
+>New_Player_1: EEGILNR A1 GREEN +26 472
+>Quackle: I 7I I.. +4 436
+>Quackle:  (IL) +4 440

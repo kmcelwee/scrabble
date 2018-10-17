@@ -1,30 +1,25 @@
-#player1 Quackle Quackle
-#player2 New_Player_1 New Player 1
->Quackle: AAEINRT -A +0 0
->New_Player_1: EHNOORU 8D HONOUR +26 26
->Quackle: AEEINRT D8 .ERNIATE +74 74
->New_Player_1: EEFIIKU C13 KIF +39 65
->Quackle: ?ADEGLT 14B L..iGATED +86 160
->New_Player_1: AEEIPUY 13G YIPE +37 102
->Quackle: EEIOOWZ 12H ZOWIE +88 248
->New_Player_1: AEHMOTU 11I MAHOUT +50 152
->Quackle: DEOORSU 15F ORS +57 305
->New_Player_1: BEGLNVX 9C V.X +26 178
->Quackle: CDELOSU N4 COULDES. +65 370
->New_Player_1: BEEGLNO 8L BO.E +30 208
->Quackle: CDDNSTW 9M W.D +23 393
->New_Player_1: EEGGILN 7E LEG +23 231
->Quackle: BCDFNST F6 B..TS +29 422
->New_Player_1: AEEGINQ 6M Q.A +12 243
->Quackle: CDFIIJN 15A FI.. +32 454
->New_Player_1: EEEGINV 4J EVIN.E +24 267
->Quackle: ACDIJNU O1 JAD. +36 490
->New_Player_1: AAEGMNO L6 AM.O +29 296
->Quackle: CILNNTU 2J TUNIC. +20 510
->New_Player_1: AAEGNRS K1 G.A.A +18 314
->Quackle: ?LNPRTY J10 P.... +17 527
->New_Player_1: AEIINRS 11C I. +2 316
->Quackle: ?ELNRTY O11 sTERN +26 553
->New_Player_1: AEINRRS E7 ...ES +33 349
->Quackle: LY 13M LY. +12 565
->Quackle:  (AINRR) +10 575
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: AAHLORU 8D ALOHA +18 18
+>Quackle: ADDEHMS 9D HADED +30 30
+>New_Player_1: AEGORUU E3 ARUGU.. +16 34
+>Quackle: EGIMRRS 3E .RMIGERS +66 96
+>New_Player_1: ?AENNOP 10G NONPEAk +74 108
+>Quackle: CEINNRT K7 INC.NTER +70 166
+>New_Player_1: AIJOTWY 4A JOWA. +46 154
+>Quackle: AFILOTZ 14J F.AZIL +52 218
+>New_Player_1: IIIITXY L1 XY.TI +46 200
+>Quackle: AEMNOTT 15D TOMENTA +85 303
+>New_Player_1: AFGIIIO O12 FI.O +33 233
+>Quackle: BBDIOOQ M12 BO.O +30 333
+>New_Player_1: ?AEGIIL 1K A.ILE +36 269
+>Quackle: BDEIINQ A4 .IBED +45 378
+>New_Player_1: ?EGILRS 11A RIdGELS +71 340
+>Quackle: CEINQST 10B QI +63 441
+>New_Player_1: DEPUVWY 5I UPD.VE +24 364
+>Quackle: CEENSST 5I ......S +13 454
+>New_Player_1: KRTUVWY N4 V.RTU +10 374
+>Quackle: CEENOST O7 ONCE +26 480
+>New_Player_1: EKWY J2 W.E.Y +29 403
+>Quackle: EST F2 E.ST +24 504
+>Quackle:  (K) +10 514

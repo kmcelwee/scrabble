@@ -22,6 +22,8 @@ Here are the definitions of the shorthand used.
     number of bingos
 * avgBingoDif: The average difference between the number of bingos  
 
+It creates a file called 'results.csv'
+
 '''
 
 import csv
@@ -92,11 +94,11 @@ for d in directories:
         tests['percWinner1stBingoEqual'][d] = len(w1stBEqu) / len(bEqual) * 100
         tests['percWinner1stBingoUnequal'][d] = len(w1stBUnequ) / (total-len(bEqual)) * 100
 
-with open('quackleData.csv', 'w') as csvfile:
+with open('results.csv', 'w') as csvfile:
     csvWriter = csv.writer(csvfile)
     csvWriter.writerow(['test'] + directories)
     for test in tests:
         csvWriter.writerow([test] + list(tests[test].values()))
 
-df = pandas.read_csv('quackleData.csv')
+df = pandas.read_csv('results.csv')
 print(df)

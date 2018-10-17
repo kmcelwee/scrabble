@@ -43,7 +43,7 @@ def parseFile(file):
 
         score1, score2 = _playerScore(s, player1, player2)
         bingo1, bingo2 = _playerBingo(s, player1, player2)
-        return [f.name, score1, score2, bingo1, bingo2]
+    return [f.name, score1, score2, bingo1, bingo2]
 
 def isFinishedGame(sGame):
     return not any([line.startswith('#rack') for line in sGame])

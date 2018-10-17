@@ -1,9 +1,14 @@
 '''
-Because we automate Quackle hoping that the timing is correct, some files are
-saved before the game is over. This program searches for "#rack", a string used
-in unfinished games to show Quackle where the game was left off.
+deleteBadFiles.py
+By Kevin McElwee
 
-A list of the error files are printed.
+Because we automate Quackle hoping that the timing is correct, some files 
+are saved before the game is over. This program searches for "#rack", a 
+string used gcg files to show Quackle where the game was left off.
+
+A list of the error files are printed, and the program offers to delete 
+those files. On average, automateQuackle.py produces incomplete files 
+1/500 times.
 '''
 
 import os

@@ -1,3 +1,11 @@
+'''
+parseQuackle.py
+By Kevin McElwee
+
+parseFile: Input gcg file. Returns filename, score1, score2, bingo1, bingo2
+isFinishedGame: Checks to make sure that the Quackle games have finished.
+'''
+
 def _playerScore(sGame, player1, player2):
 	s1, s2 = None, None
 	for line in sGame:

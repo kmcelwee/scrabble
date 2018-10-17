@@ -1,3 +1,12 @@
+'''
+quackleToCSV.py
+By Kevin McElwee
+
+This script runs through the four directories of quackle files -- Traditional,
+Lewis, One, and Fifty -- and creates four CSVs with their data parsed from 
+parseQuackle. It also appends the percent difference.
+'''
+
 import csv
 import os
 import parseQuackle

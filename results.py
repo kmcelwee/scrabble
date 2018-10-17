@@ -1,3 +1,24 @@
+'''
+results.py
+By Kevin McElwee
+
+Draws data from respective CSVs and prints various tests.
+Here are the definitions of the shorthand used.
+
+* avg1st: The average score of the player who went first.
+* avg2nd: The average score of the player who went second.
+* percDif: The average percent differences between the two scores.
+* percDifBingoEquals: The average percent differences between the two scores when both players earned an equal number of bingos.
+* percDifBingoUnequal: The average percent differences between the two scores when both players earned an unequal number of bingos.
+* avgBingoDif: The average difference in the number of bingos won by each player
+* percWinner1st: The percent of games won by the player who went first.
+* percWinner1stBingoEqual: The percent of games won by the player who first when the bingos won by each player were equal
+* percWinner1stBingoUnequal: The percent of games won by the player who first when the bingos won by each player were unequal
+* percBingoEqual: The percent of games where both players had an equal number of bingos
+* avgBingoDif: The average difference between the number of bingos  
+
+'''
+
 import csv
 import numpy as np
 import pandas
@@ -12,7 +33,7 @@ def meanAndConf(data, confidence=0.95):
     # Rounding was not rigorous.
 
 tests = {
-    'avg1st': {}, 'avg2nd': {}, 'percDif': {}, 'percDifBingoEquals': {},
+    'avg1st': {}, 'avg2nd': {}, 'percDif': {}, 'percDifBingoEqual': {},
     'percDifBingoUnequal': {}, 'avgBingoDif': {},
     'percWinner1st': {}, 'percWinner1stBingoEqual': {}, 'percWinner1stBingoUnequal':{},
     'percBingoEqual': {},
@@ -48,7 +69,7 @@ for d in directories:
 
         tests['avg1st'][d] = meanAndConf(score1)
         tests['avg2nd'][d] = meanAndConf(score2)
-        tests['percDifBingoEquals'][d] = meanAndConf(bingoEqual) + '%'
+        tests['percDifBingoEqual'][d] = meanAndConf(bingoEqual) + '%'
         tests['percDifBingoUnequal'][d] = meanAndConf(bingoUnequal) + '%'
         tests['percDif'][d] = meanAndConf(bingoUnequal + bingoEqual) + '%'
 

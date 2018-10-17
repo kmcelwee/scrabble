@@ -87,10 +87,13 @@ Average value: 3.22
 Games within the one/ and fifty/ directories were calculated with all tiles equaling their respective names, including the blank tile.
 
 ----------
-#### PENDING
+#### PENDING ####
 
 RANDOM
-Currently testing whether a random assortment of tile values (With the same average as
-A: 5	B: 1	C: 0	D: 2	E: 3	F: 6	G: 2	H: 5	I: 0	J: 4	K: 4	L: 5	M: 3	N: 2	O: 2	P: 1	Q: 1	R: 5	S: 1	T: 1	U: 10	V: 3	W: 4	X: 5	Y: 6	Z: 2  Blank: 4
+Currently testing whether a random assortment of tile values (With the same average as the traditional values)
+
+A: 5	B: 1	C: 0	D: 2	E: 3	F: 6	G: 2	H: 5	I: 0	J: 4	K: 4	L: 5	M: 3	
+
+N: 2	O: 2	P: 1	Q: 1	R: 5	S: 1	T: 1	U: 10	V: 3	W: 4	X: 5	Y: 6	Z: 2  Blank: 4
 
 Average value: 3.22

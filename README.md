@@ -1,6 +1,6 @@
 # scrabble
 
-This project parses data from Quackle, an automated Scrabble player. The results calculate the percent difference for the program playing against itself for various tile values, detailed below. It also identifies bingos, and prints stats concerning how bingo might affect the percent difference.
+This project parses data from Quackle, an automated Scrabble player. Thousands of test games are on file with various tile values (Traditional: the standard tile values, Lewis: the suggested values by Joshua Lewis in 2013 from his [Valett package](https://github.com/jmlewis/valett), and One/Fifty: all tiles equal to those values). 
 
 [Click here for the results](results.csv)
 
@@ -58,7 +58,7 @@ Here are the definitions of the shorthand used.
 * percBingoEqual: The percent of games where both players had an equal number of bingos
 * avgBingoDif: The average difference between the number of bingos  
 
-## Details
+## Details ##
 
 There are different size samples, but results.py considers size of sample when calculating mean confidence interval. We could make them the same length, but might as well consider as many datapoints as possible. Make sure to keep this in mind if running different tests. 
 

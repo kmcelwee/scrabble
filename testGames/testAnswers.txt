@@ -1,0 +1,4 @@
+file Score1 Score2 Bingos1 Bingos2
+testGames/test1.gcg 520 386 4 2
+testGames/test2.gcg 409 391 3 2
+testGames/test3.gcg 436 437 2 3

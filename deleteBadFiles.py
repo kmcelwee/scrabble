@@ -14,7 +14,7 @@ those files. On average, automateQuackle.py produces incomplete files
 import os
 import parseQuackle
 
-directories = ['traditional', 'lewis', 'one', 'fifty']
+directories = ['traditional', 'lewis', 'one', 'fifty', 'random']
 
 for directory in directories:
     print('Looking for unfinished games in directory /' + directory + "...")

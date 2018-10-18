@@ -11,7 +11,7 @@ import csv
 import os
 import parseQuackle
 
-for directory in ['traditional', 'lewis', 'one', 'fifty']:
+for directory in ['traditional', 'lewis', 'one', 'fifty', 'random']:
     print("Creating CSV from the games in folder /" + directory + "...")
 
     testResults = []

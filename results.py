@@ -46,7 +46,7 @@ tests = {
     'percWinner1stBingoUnequal':{}, 'percBingoEqual': {},
 }
 
-directories = ['traditional', 'lewis', 'one', 'fifty']
+directories = ['traditional', 'lewis', 'one', 'fifty', 'random']
 
 for d in directories:
     with open(d + '.csv') as csv_file:

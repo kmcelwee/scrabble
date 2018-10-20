@@ -14,10 +14,11 @@ those files. On average, automateQuackle.py produces incomplete files
 import os
 import parseQuackle
 
-directories = ['traditional', 'lewis', 'one', 'fifty', 'random']
+DATA = 'data/'
+directories = [subdir for subdir,_,_ in os.walk(DATA) if subdir != DATA]
 
 for directory in directories:
-    print('Looking for unfinished games in directory /' + directory + "...")
+    print('Looking for unfinished games in directory ' + directory + "...")
 
     errorFiles = []
     for filename in os.listdir(directory):

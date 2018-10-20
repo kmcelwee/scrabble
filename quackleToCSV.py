@@ -2,17 +2,20 @@
 quackleToCSV.py
 By Kevin McElwee
 
-This script runs through the four directories of quackle files -- Traditional,
-Lewis, One, and Fifty -- and creates four CSVs with their data parsed from 
-parseQuackle. It also appends the percent difference.
+This script runs through the directories of quackle files and creates CSVs 
+with their data parsed from parseQuackle. It also appends the percent 
+difference.
 '''
 
 import csv
 import os
 import parseQuackle
 
-for directory in ['traditional', 'lewis', 'one', 'fifty', 'random']:
-    print("Creating CSV from the games in folder /" + directory + "...")
+DATA = 'data/'
+directories = [subdir for subdir,_,_ in os.walk(DATA) if subdir != DATA]
+
+for directory in directories:
+    print("Creating CSV from the games in folder " + directory + "...")
 
     testResults = []
     for filename in os.listdir(directory):
@@ -27,6 +30,6 @@ for directory in ['traditional', 'lewis', 'one', 'fifty', 'random']:
         for r in testResults:
             # 1, 2 index the scores
             percDif = abs(r[1]-r[2]) / ((r[1]+r[2]) / 2) * 100
-            csvWriter.writerow(r + [percDif]) 
+            csvWriter.writerow([os.path.basename(r[0])] + r[1:] + [percDif]) 
 
     print(directory + '.csv is complete')

@@ -30,6 +30,7 @@ import csv
 import numpy as np
 import pandas
 import scipy.stats
+import os
 
 def meanAndConf(data, confidence=0.95):
     a = 1.0 * np.array(data)
@@ -46,7 +47,8 @@ tests = {
     'percWinner1stBingoUnequal':{}, 'percBingoEqual': {},
 }
 
-directories = ['traditional', 'lewis', 'one', 'fifty', 'random']
+DATA = 'data/'
+directories = [subdir for subdir,_,_ in os.walk(DATA) if subdir != DATA]
 
 for d in directories:
     with open(d + '.csv') as csv_file:

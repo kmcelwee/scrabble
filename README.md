@@ -1,5 +1,7 @@
 # scrabble
 
+[Read article in Nautilus Magazine here](http://nautil.us/issue/67/reboot/does-scrabble-need-to-be-fixed)
+
 This project parses data from Quackle, an automated Scrabble player. Thousands of test games are on file with various tile values (Traditional: the standard tile values, Lewis: the suggested values by Joshua Lewis in 2013 from his [Valett package](https://github.com/jmlewis/valett), and One/Fifty: all tiles equal to those values, Random: randomly assigned values, with an average equal to that of Traditional.)
 
 [Click here for the results](results.csv)

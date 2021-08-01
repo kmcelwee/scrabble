@@ -1,0 +1,4 @@
+pyautogui
+scipy
+numpy
+pandas

@@ -2,3 +2,4 @@ pyautogui
 scipy
 numpy
 pandas
+pytest

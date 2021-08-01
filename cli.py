@@ -1,11 +1,10 @@
 import os
 import typer
+import pandas as pd
 
 from Quackle import QuackleGame
 
 app = typer.Typer(name="Multiplicative Persistence Explorer", add_completion=False)
-
-
 
 # Delete bad files
 @app.command()
@@ -14,7 +13,7 @@ def clean(
         "data",
         "--data-dir",
         "-d",
-        help="The directory where the output JSON be written",
+        help="The directory (and subdirectories) where we will search for malformed gcg files",
     )
 ):
     """Delete incomplete gcg files"""
@@ -46,8 +45,25 @@ def clean(
             print("Deletion cancelled")
 
 
-# Generate CSV summary of all files in a directory
+@app.command()
+def generate_csvs(
+    data_dir: str = typer.Option(
+    "data",
+    "--data-dir",
+    "-d",
+    help="The directory where we will search for subdirectories and create a CSV file for those subdirectories",
+)):
+    """Generate CSV files for all games in a subdirectory"""
 
-    
+    directories = [subdir for subdir,_,_ in os.walk(data_dir) if subdir != data_dir]
+
+    for directory in directories:
+        print('Parsing games in directory ' + directory + "...")
+        games = [QuackleGame(os.path.join(directory, filename)).to_dict() for filename in os.listdir(directory) if filename.endswith(".gcg")]
+        df = pd.DataFrame(games)
+        output_path = f"{directory}.csv"
+        print(f'Creating {output_path}...')
+        df.to_csv(output_path, index=False)
+
 if __name__ == "__main__":
     app()

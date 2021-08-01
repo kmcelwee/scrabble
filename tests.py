@@ -1,7 +1,5 @@
-# TODO: 
-# - Handle passes, see fifty24.gcg
-
 import pytest
+
 from Quackle import QuackleGame, Player, Move
 
 class TestQuackleGame:
@@ -10,6 +8,9 @@ class TestQuackleGame:
         assert type(game) == QuackleGame
         assert game.player1.name == 'New_Player_1'
         assert game.player2.name == 'Quackle'
+
+        with pytest.raises(Exception) as e:
+            game = QuackleGame('fixtures/bad_files/unfinished_game.gcg')
 
     def test_is_finished_game(self):
         finished_game = 'fixtures/test1.gcg'
@@ -60,8 +61,29 @@ class TestMove:
         assert move.player == 'Quackle'
         assert move.rack == ''
         assert move.location == ''
+        assert move.word == '(ACI)'
         assert move.points_earned == 8
         assert move.current_score == 543
+
+        # Test exchanged tiles
+        line = '>New_Player_1: EIOOSUU -IOOUU +0 65'
+        move = Move(line)
+        assert move.player == 'New_Player_1'
+        assert move.rack == 'EIOOSUU'
+        assert move.location == ''
+        assert move.word == '-IOOUU'
+        assert move.points_earned == 0
+        assert move.current_score == 65
+
+        # Test passes
+        line = '>Quackle: V -  +0 254'
+        move = Move(line)
+        assert move.player == 'Quackle'
+        assert move.rack == 'V'
+        assert move.location == '-'
+        assert move.word == ''
+        assert move.points_earned == 0
+        assert move.current_score == 254
     
     def test_is_bingo(self):
         game = QuackleGame('fixtures/test1.gcg')
@@ -82,8 +104,22 @@ class TestMove:
         move = Move(line)
         assert not move.is_final_move
 
+    def test_no_location(self):
+        line = '>New_Player_1: DEGIINS 12C .I +22 348'
+        move = Move(line)
+        assert not move.no_location
+
+        line = '>New_Player_1: EIOOSUU -IOOUU +0 65'
+        move = Move(line)
+        assert move.no_location
+
+    def test_safe_int(self):
+        pass
+
 class TestCli:
     def test_clean(self):
         pass
 
+    def test_generate_csvs(self):
+        pass
     

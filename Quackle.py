@@ -12,7 +12,7 @@ class QuackleGame:
     def parse_file(self):
         if not self.is_finished_game(self.path):
             raise AttributeError(
-                f.name + " is unfinished! This class can't currently parse"
+                self.path + " is unfinished! This class can't currently parse "
                 "unfinished games."
             )
 
@@ -71,19 +71,18 @@ class Move:
         self.line = line
 
         self.player = line.split(': ')[0].strip('>')
-        move_content = line.split(': ')[1].split(' ')
-        if self.is_final_move:
+        self.move_content = line.split(': ')[1].split(' ')
+        self.rack = self.move_content[0]
+        if self.no_location:
             self.location = ''
-            self.rack = move_content[0]
-            self.word = move_content[1]
-            self.points_earned = int(move_content[2])
-            self.current_score = int(move_content[3])
+            self.word = self.move_content[1]
+            self.points_earned = self._safe_int(self.move_content[2])
+            self.current_score = int(self.move_content[3])
         else:
-            self.rack = move_content[0]
-            self.location = move_content[1]
-            self.word = move_content[2]
-            self.points_earned = int(move_content[3])
-            self.current_score = int(move_content[4])
+            self.location = self.move_content[1]
+            self.word = self.move_content[2]
+            self.points_earned = self._safe_int(self.move_content[3])
+            self.current_score = int(self.move_content[4])
 
     @property
     def is_final_move(self):
@@ -92,4 +91,10 @@ class Move:
     @property
     def is_bingo(self):
         return len([ch for ch in self.word if ch != '.']) == 7
-
+    
+    @property
+    def no_location(self):
+        return len(self.move_content) == 4
+    
+    def _safe_int(self, s):
+        return int(s.replace('+-', '-'))

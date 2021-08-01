@@ -41,8 +41,9 @@ class TestPlayer:
         assert game.player2.score == 391
 
     def test_bingo_count(self):
-        pass
-
+        game = QuackleGame('fixtures/test2.gcg')
+        assert game.player1.bingo_count == 3
+        assert game.player2.bingo_count == 2
 
 class TestMove:
     def test_init(self):
@@ -74,6 +75,7 @@ class TestMove:
         assert move.word == '-IOOUU'
         assert move.points_earned == 0
         assert move.current_score == 65
+        assert not move.is_pass
 
         # Test passes
         line = '>Quackle: V -  +0 254'
@@ -84,6 +86,7 @@ class TestMove:
         assert move.word == ''
         assert move.points_earned == 0
         assert move.current_score == 254
+        assert move.is_pass
     
     def test_is_bingo(self):
         game = QuackleGame('fixtures/test1.gcg')

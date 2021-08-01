@@ -95,6 +95,10 @@ class Move:
     @property
     def no_location(self):
         return len(self.move_content) == 4
-    
+
+    @property
+    def is_pass(self):
+        return self.location == '-'
+
     def _safe_int(self, s):
         return int(s.replace('+-', '-'))

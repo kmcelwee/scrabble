@@ -3,3 +3,5 @@ scipy
 pandas
 pytest
 typer
+pre-commit
+black

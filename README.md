@@ -1,5 +1,9 @@
 # scrabble
 
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+[![pytest](https://github.com/kmcelwee/scrabble/actions/workflows/unittests.yaml/badge.svg)](https://github.com/kmcelwee/scrabble/actions/workflows/unittests.yaml)
+
 [Read article in Nautilus Magazine here](http://nautil.us/issue/67/reboot/does-scrabble-need-to-be-fixed)
 
 This project parses data from Quackle, an automated Scrabble player. Thousands of test games are on file with various tile values (Traditional: the standard tile values, Lewis: the suggested values by Joshua Lewis in 2013 from his [Valett package](https://github.com/jmlewis/valett), and One/Fifty: all tiles equal to those values, Random: randomly assigned values, with an average equal to that of Traditional.)
@@ -98,3 +102,13 @@ A: 5	B: 1	C: 0	D: 2	E: 3	F: 6	G: 2	H: 5	I: 0	J: 4	K: 4	L: 5	M: 3
 N: 2	O: 2	P: 1	Q: 1	R: 5	S: 1	T: 1	U: 10	V: 3	W: 4	X: 5	Y: 6	Z: 2  Blank: 4
 
 Average value: 3.22
+
+### Install black pre-commit
+
+In order to follow black style guidelines, simply run the following command:
+
+```sh
+pre-commit install
+```
+
+This will prevent you from committing un-styled code.

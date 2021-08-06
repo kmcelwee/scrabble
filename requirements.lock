@@ -1,0 +1,5 @@
+pandas==1.0.1
+scipy==1.4.1
+pytest==6.2.4
+typer==0.3.2
+pyautogui==0.9.53

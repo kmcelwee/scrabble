@@ -1,4 +1,5 @@
 pyautogui
 scipy
-numpy
 pandas
+pytest
+typer

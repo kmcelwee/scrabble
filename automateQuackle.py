@@ -3,6 +3,7 @@ automateQuackle.py
 by Kevin McElwee
 
 This script is a risky, bootstrap way of running multiple Quackle games.
+Quackle has not yet implemented a way to run games from the command line.
 The program takes over the keyboard, and manually enters what would be 
 required of a person. The rate is approximately 800 games per hour.
 
